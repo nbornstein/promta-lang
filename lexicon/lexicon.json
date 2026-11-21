@@ -1,7 +1,7 @@
 {
   "language": "Promta",
   "native_name": "promta",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "phonology": {
     "alphabet_size": 15,
     "vowels": [
@@ -408,6 +408,223 @@
         "verb": "puti",
         "modifier": "pute",
         "meaning": "Put, add, insert"
+      },
+      {
+        "root": "minim-",
+        "noun": "minima",
+        "verb": "minimi",
+        "modifier": "minime",
+        "meaning": "Minimum, minimalism (minimum / to minimize / minimal)"
+      },
+      {
+        "root": "ingel-",
+        "noun": "ingela",
+        "verb": "ingeli",
+        "modifier": "ingele",
+        "meaning": "English language or style (English / to anglicize / English)"
+      },
+      {
+        "root": "amik-",
+        "noun": "amika",
+        "verb": "amiki",
+        "modifier": "amike",
+        "meaning": "Friend, ease of use (friend / to befriend / friendly)"
+      },
+      {
+        "root": "disan-",
+        "noun": "disana",
+        "verb": "disani",
+        "modifier": "disane",
+        "meaning": "Design, structure (design / to design / designed)"
+      },
+      {
+        "root": "monosen-",
+        "noun": "monosena",
+        "verb": "monoseni",
+        "modifier": "monosene",
+        "meaning": "Unambiguous, single-meaning (clarity of sense / to disambiguate / unambiguous)"
+      },
+      {
+        "root": "komunik-",
+        "noun": "komunika",
+        "verb": "komuniki",
+        "modifier": "komunike",
+        "meaning": "Communication, exchange (communication / to communicate / communicative)"
+      },
+      {
+        "root": "kim-",
+        "noun": "kima",
+        "verb": "kimi",
+        "modifier": "kime",
+        "meaning": "Key, core, essential (key / to anchor / key)"
+      },
+      {
+        "root": "taret-",
+        "noun": "tareta",
+        "verb": "tareti",
+        "modifier": "tarete",
+        "meaning": "Feature, trait, property (feature / to characterize / characteristic)"
+      },
+      {
+        "root": "lete-",
+        "noun": "letesa",
+        "verb": "letesi",
+        "modifier": "letese",
+        "meaning": "Letter, alphabetic character (letter / to spell / alphabetic)"
+      },
+      {
+        "root": "ponem-",
+        "noun": "ponema",
+        "verb": "ponemi",
+        "modifier": "poneme",
+        "meaning": "Phoneme, speech sound (phoneme / to pronounce / phonemic)"
+      },
+      {
+        "root": "set-",
+        "noun": "seta",
+        "verb": "seti",
+        "modifier": "sete",
+        "meaning": "Set, collection (set / to arrange / set)"
+      },
+      {
+        "root": "sonal-",
+        "noun": "sonala",
+        "verb": "sonali",
+        "modifier": "sonale",
+        "meaning": "Vowel, resonant sound (vowel / to vocalize / vocalic)"
+      },
+      {
+        "root": "konson-",
+        "noun": "konsona",
+        "verb": "konsoni",
+        "modifier": "konsone",
+        "meaning": "Consonant (consonant / to articulate / consonantal)"
+      },
+      {
+        "root": "sikit-",
+        "noun": "sikita",
+        "verb": "sikiti",
+        "modifier": "sikite",
+        "meaning": "Strictness, rigor (strictness / to enforce / strict)"
+      },
+      {
+        "root": "un-",
+        "noun": "una",
+        "verb": "uni",
+        "modifier": "une",
+        "meaning": "One, unity, joining (one / to unite / single)"
+      },
+      {
+        "root": "silap-",
+        "noun": "silapa",
+        "verb": "silapi",
+        "modifier": "silape",
+        "meaning": "Syllable (syllable / to syllabify / syllabic)"
+      },
+      {
+        "root": "gup-",
+        "noun": "gupa",
+        "verb": "gupi",
+        "modifier": "gupe",
+        "meaning": "Group, cluster (group / to cluster / grouped)"
+      },
+      {
+        "root": "kad-",
+        "noun": "kada",
+        "verb": "kadi",
+        "modifier": "kade",
+        "meaning": "Each, every (unit / to enumerate / every)"
+      },
+      {
+        "root": "elek-",
+        "noun": "eleka",
+        "verb": "eleki",
+        "modifier": "eleke",
+        "meaning": "Option, choice (option / to choose / optional)"
+      },
+      {
+        "root": "sol-",
+        "noun": "sola",
+        "verb": "soli",
+        "modifier": "sole",
+        "meaning": "Single, sole, alone (solitude / to isolate / single)"
+      },
+      {
+        "root": "neses-",
+        "noun": "nesesa",
+        "verb": "nesesi",
+        "modifier": "nesese",
+        "meaning": "Necessity, requirement (necessity / to require / mandatory)"
+      },
+      {
+        "root": "nasal-",
+        "noun": "nasala",
+        "verb": "nasali",
+        "modifier": "nasale",
+        "meaning": "Nasal sound (nasal / to nasalize / nasal)"
+      },
+      {
+        "root": "kod-",
+        "noun": "koda",
+        "verb": "kodi",
+        "modifier": "kode",
+        "meaning": "Ending, coda, tail (coda / to end / final)"
+      },
+      {
+        "root": "detemin-",
+        "noun": "detemina",
+        "verb": "detemini",
+        "modifier": "detemine",
+        "meaning": "Determinism (determinism / to determine / deterministic)"
+      },
+      {
+        "root": "kalas-",
+        "noun": "kalasa",
+        "verb": "kalasi",
+        "modifier": "kalase",
+        "meaning": "Class, category (class / to classify / categorical)"
+      },
+      {
+        "root": "konten-",
+        "noun": "kontena",
+        "verb": "konteni",
+        "modifier": "kontene",
+        "meaning": "Content, substance (content / to contain / substantive)"
+      },
+      {
+        "root": "nom-",
+        "noun": "noma",
+        "verb": "nomi",
+        "modifier": "nome",
+        "meaning": "Noun, name (noun / to name / nominal)"
+      },
+      {
+        "root": "akison-",
+        "noun": "akisona",
+        "verb": "akisoni",
+        "modifier": "akisone",
+        "meaning": "Verb, action (verb / to act / verbal)"
+      },
+      {
+        "root": "modipik-",
+        "noun": "modipika",
+        "verb": "modipiki",
+        "modifier": "modipike",
+        "meaning": "Modifier, adjective/adverb (modifier / to modify / modifying)"
+      },
+      {
+        "root": "sintak-",
+        "noun": "sintaka",
+        "verb": "sintaki",
+        "modifier": "sintake",
+        "meaning": "Syntax (syntax / to structure syntactically / syntactic)"
+      },
+      {
+        "root": "tem-",
+        "noun": "tema",
+        "verb": "temi",
+        "modifier": "teme",
+        "meaning": "Word, lexical unit (word / to word / lexical)"
       }
     ],
     "ai_architecture": [
@@ -529,6 +746,13 @@
         "verb": "teki",
         "modifier": "teke",
         "meaning": "Model architecture and internal structure"
+      },
+      {
+        "root": "gener-",
+        "noun": "genera",
+        "verb": "generi",
+        "modifier": "genere",
+        "meaning": "Generation, generative modeling (generation / to generate / generative)"
       }
     ],
     "human_ai_workflows": [
@@ -753,6 +977,18 @@
     {
       "word": "ankora",
       "meaning": "yet / still"
+    },
+    {
+      "word": "po",
+      "meaning": "for / in order to"
+    },
+    {
+      "word": "sin",
+      "meaning": "without"
+    },
+    {
+      "word": "au",
+      "meaning": "or"
     }
   ],
   "compounds": [
@@ -941,6 +1177,39 @@
         "mesaka"
       ],
       "meaning": "Commit message ('commit-message')"
+    },
+    {
+      "word": "leteseta",
+      "components": [
+        "letesa",
+        "seta"
+      ],
+      "meaning": "Alphabet ('letter-set')"
+    },
+    {
+      "word": "ponemleteseta",
+      "components": [
+        "ponema",
+        "letesa",
+        "seta"
+      ],
+      "meaning": "Phonemic alphabet ('phoneme-letter-set')"
+    },
+    {
+      "word": "kontentema",
+      "components": [
+        "kontena",
+        "tema"
+      ],
+      "meaning": "Content word ('content-word')"
+    },
+    {
+      "word": "unitema",
+      "components": [
+        "una",
+        "tema"
+      ],
+      "meaning": "Compound word ('united-word')"
     }
   ]
 }

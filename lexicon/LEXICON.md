@@ -60,10 +60,41 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 | **akes-** | *akesa* | *akesi* | *akese* | Access, entry rights |
 | **ident-** | *identa* | *identi* | *idente* | Identity, credential |
 | **put-** | *puta* | *puti* | *pute* | Put, add, insert |
+| **minim-** | *minima* | *minimi* | *minime* | Minimum, minimalism (minimum / to minimize / minimal) |
+| **ingel-** | *ingela* | *ingeli* | *ingele* | English language or style (English / to anglicize / English) |
+| **amik-** | *amika* | *amiki* | *amike* | Friend, ease of use (friend / to befriend / friendly) |
+| **disan-** | *disana* | *disani* | *disane* | Design, structure (design / to design / designed) |
+| **monosen-** | *monosena* | *monoseni* | *monosene* | Unambiguous, single-meaning (clarity of sense / to disambiguate / unambiguous) |
+| **komunik-** | *komunika* | *komuniki* | *komunike* | Communication, exchange (communication / to communicate / communicative) |
+| **kim-** | *kima* | *kimi* | *kime* | Key, core, essential (key / to anchor / key) |
+| **taret-** | *tareta* | *tareti* | *tarete* | Feature, trait, property (feature / to characterize / characteristic) |
+| **lete-** | *letesa* | *letesi* | *letese* | Letter, alphabetic character (letter / to spell / alphabetic) |
+| **ponem-** | *ponema* | *ponemi* | *poneme* | Phoneme, speech sound (phoneme / to pronounce / phonemic) |
+| **set-** | *seta* | *seti* | *sete* | Set, collection (set / to arrange / set) |
+| **sonal-** | *sonala* | *sonali* | *sonale* | Vowel, resonant sound (vowel / to vocalize / vocalic) |
+| **konson-** | *konsona* | *konsoni* | *konsone* | Consonant (consonant / to articulate / consonantal) |
+| **sikit-** | *sikita* | *sikiti* | *sikite* | Strictness, rigor (strictness / to enforce / strict) |
+| **un-** | *una* | *uni* | *une* | One, unity, joining (one / to unite / single) |
+| **silap-** | *silapa* | *silapi* | *silape* | Syllable (syllable / to syllabify / syllabic) |
+| **gup-** | *gupa* | *gupi* | *gupe* | Group, cluster (group / to cluster / grouped) |
+| **kad-** | *kada* | *kadi* | *kade* | Each, every (unit / to enumerate / every) |
+| **elek-** | *eleka* | *eleki* | *eleke* | Option, choice (option / to choose / optional) |
+| **sol-** | *sola* | *soli* | *sole* | Single, sole, alone (solitude / to isolate / single) |
+| **neses-** | *nesesa* | *nesesi* | *nesese* | Necessity, requirement (necessity / to require / mandatory) |
+| **nasal-** | *nasala* | *nasali* | *nasale* | Nasal sound (nasal / to nasalize / nasal) |
+| **kod-** | *koda* | *kodi* | *kode* | Ending, coda, tail (coda / to end / final) |
+| **detemin-** | *detemina* | *detemini* | *detemine* | Determinism (determinism / to determine / deterministic) |
+| **kalas-** | *kalasa* | *kalasi* | *kalase* | Class, category (class / to classify / categorical) |
+| **konten-** | *kontena* | *konteni* | *kontene* | Content, substance (content / to contain / substantive) |
+| **nom-** | *noma* | *nomi* | *nome* | Noun, name (noun / to name / nominal) |
+| **akison-** | *akisona* | *akisoni* | *akisone* | Verb, action (verb / to act / verbal) |
+| **modipik-** | *modipika* | *modipiki* | *modipike* | Modifier, adjective/adverb (modifier / to modify / modifying) |
+| **sintak-** | *sintaka* | *sintaki* | *sintake* | Syntax (syntax / to structure syntactically / syntactic) |
+| **tem-** | *tema* | *temi* | *teme* | Word, lexical unit (word / to word / lexical) |
 
 ### Standalone Particles
 
-**in** (in / into), **an** (and), **bat** (but), **so** (so / therefore), **as** (as / while), **de** (of / about), **kua** (what / which), **sempre** (always), **kan** (can), **ne** (not), **ka** (yes/no question marker), **si** (if), **ten** (then), **plis** (please / polite imperative), **komo** (like / such as), **o** (oh / interjection), **ia** (yes), **ankora** (yet / still).
+**in** (in / into), **an** (and), **bat** (but), **so** (so / therefore), **as** (as / while), **de** (of / about), **kua** (what / which), **sempre** (always), **kan** (can), **ne** (not), **ka** (yes/no question marker), **si** (if), **ten** (then), **plis** (please / polite imperative), **komo** (like / such as), **o** (oh / interjection), **ia** (yes), **ankora** (yet / still), **po** (for / in order to), **sin** (without), **au** (or).
 
 ---
 
@@ -88,6 +119,7 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 | **infer-** | *infera* | *inferi* | *infere* | Forward-pass inference / generation |
 | **kop-** | *kopa* | *kopi* | *kope* | Training dataset or corpus |
 | **tek-** | *teka* | *teki* | *teke* | Model architecture and internal structure |
+| **gener-** | *genera* | *generi* | *genere* | Generation, generative modeling (generation / to generate / generative) |
 
 ---
 
@@ -144,3 +176,7 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 - **tulintera** (*tula* + *intera*) — Tool-calling API ('tool-interface')
 - **meklena** (*meka* + *lena*) — Constructed language / conlang ('made-language')
 - **komitmesaka** (*komita* + *mesaka*) — Commit message ('commit-message')
+- **leteseta** (*letesa* + *seta*) — Alphabet ('letter-set')
+- **ponemleteseta** (*ponema* + *letesa* + *seta*) — Phonemic alphabet ('phoneme-letter-set')
+- **kontentema** (*kontena* + *tema*) — Content word ('content-word')
+- **unitema** (*una* + *tema*) — Compound word ('united-word')
