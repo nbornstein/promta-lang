@@ -91,6 +91,8 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 | **modipik-** | *modipika* | *modipiki* | *modipike* | Modifier, adjective/adverb (modifier / to modify / modifying) |
 | **sintak-** | *sintaka* | *sintaki* | *sintake* | Syntax (syntax / to structure syntactically / syntactic) |
 | **tem-** | *tema* | *temi* | *teme* | Word, lexical unit (word / to word / lexical) |
+| **lisens-** | *lisensa* | *lisensi* | *lisense* | License, legal grant (license / to license / licensed) |
+| **sam-** | *sama* | *sami* | *same* | Same, identical, alike (sameness / to match / same) |
 
 ### Standalone Particles
 

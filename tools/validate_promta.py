@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
 """Zero-dependency phonological and syllable validator for Promta (15-letter alphabet)."""
 
 import argparse

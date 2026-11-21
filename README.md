@@ -34,6 +34,11 @@ python3 tools/validate_promta.py --lexicon lexicon/lexicon.json
 python3 tools/validate_promta.py examples/system-prompt.promta
 ```
 
+## License
+
+- **Language Specification, Lexicon, Documentation & Examples** (`README.md`, `spec/`, `lexicon/`, `examples/`): Licensed under [CC BY-SA 4.0](LICENSE-CONTENT) ([creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
+- **Software & Validation Tools** (`tools/`): Licensed under the [MIT License](LICENSE).
+
 ---
 
 ## Promta (`promta`) — Promte Tansa
@@ -71,3 +76,8 @@ promta-lang/
 python3 tools/validate_promta.py --lexicon lexicon/lexicon.json
 python3 tools/validate_promta.py examples/system-prompt.promta
 ```
+
+### Lisensa
+
+- **Lena Teka, Leksika, Midoka an Mieksema** (`README.md`, `spec/`, `lexicon/`, `examples/`): Lisense in [CC BY-SA 4.0](LICENSE-CONTENT) (kapi atributa an sare-same mikondisa).
+- **Meka an Kurek-Mitula** (`tools/`): Lisense in [MIT Lisensa](LICENSE).

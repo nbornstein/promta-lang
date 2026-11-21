@@ -625,6 +625,20 @@
         "verb": "temi",
         "modifier": "teme",
         "meaning": "Word, lexical unit (word / to word / lexical)"
+      },
+      {
+        "root": "lisens-",
+        "noun": "lisensa",
+        "verb": "lisensi",
+        "modifier": "lisense",
+        "meaning": "License, legal grant (license / to license / licensed)"
+      },
+      {
+        "root": "sam-",
+        "noun": "sama",
+        "verb": "sami",
+        "modifier": "same",
+        "meaning": "Same, identical, alike (sameness / to match / same)"
       }
     ],
     "ai_architecture": [
@@ -1211,5 +1225,6 @@
       ],
       "meaning": "Compound word ('united-word')"
     }
-  ]
+  ],
+  "license": "CC-BY-SA-4.0"
 }
