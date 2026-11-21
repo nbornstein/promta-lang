@@ -1,25 +1,19 @@
-# Promta Conversation & Translation Log
+# Annotated Conversation Log
 
-* **English:** "As we continue, the first response to me should always be a translation of what I said - put it in italics so I can see it clearly. This may require you to expand the lexicon on the fly, so feel free to do so."
-  **Promta:** *In kontina, pime repa tu mia sempre esi tansa de kua mia paloki — puti ita in italike stile, so mia kan videri ita kalare. Ita kan kueri tu pani leksika in runa, so senti libere meki ita.*
+1. **User:** "Keep a running lexicon and grammar guide in a Google Doc as we go."
+   **Promta:** *Kipi rune leksika an gramgida in Gugel doka as mia kontini.*
 
-* **English:** "Keep a running lexicon and grammar guide in a Google Doc as we go."
-  **Promta:** *Kipi rune leksika an gramgida in Gugel doka as mia kontini.*
+2. **User:** "What would be the word for Model Context Protocol?"
+   **Promta:** *Kua esi terma por Modkontekpotokola?*
 
-* **English:** "Add concise grammar rules and particles in Promta for asking questions, giving imperative commands to an AI, and expressing if/then conditional logic, and update the Google Doc."
-  **Promta:** *Pani konsise gramrula an partikla in Promta por kueri mikuera, loki komande komanda tu AI, an loki si-ten kondise logika, an apdeti Gugel doka.*
+3. **User:** "Oh yes, guardrails"
+   **Promta:** *O ia, milimrela.*
 
-* **English:** "Expand Promta's lexicon to cover model internals and training concepts like weights, layers, embeddings, fine-tuning, and RLHF, and update the Google Doc."
-  **Promta:** *Pani promte leksika por kumi moteka an lenkonsepa komo mipona, milera, miempa, fintuna, an umanrenlena, an apdeti Gugel doka.*
+4. **User:** "API?"
+   **Promta:** *Apintera?*
 
-* **English:** "What would be the word for Model Context Protocol?"
-  **Promta:** *Kua esi terma por Modkontekpotokola?*
+5. **User:** "Write the first commit message for me, and give me the command to commit and push to github."
+   **Promta:** *Rati pime komitmesaka por mia, an pasi mia komanda por komiti an pusi tu Kitapu.*
 
-* **English:** "Oh yes, guardrails"
-  **Promta:** *O ia, milimrela.*
-
-* **English:** "API?"
-  **Promta:** *Apintera?*
-
-* **English:** "I want to share this constructed language on GitHub. Create a project for me and come up with the best structure to commit it. Don't commit anything yet, though."
-  **Promta:** *Mia kupi sari tese meklena in Kitapu. Keri poreka por mia an meki supere teka por komiti ita. Bat ne komiti nia ankora.*
+6. **User:** "write a description for the promta-lang rep on github"
+   **Promta:** *Rati tesika por promta-lena poreka in Kitapu.*
