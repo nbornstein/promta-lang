@@ -1,0 +1,175 @@
+[
+  {
+    "compound": "konteklata",
+    "components": [
+      "konteka",
+      "lata"
+    ],
+    "gloss": "context-space",
+    "meaning": "context window"
+  },
+  {
+    "compound": "eksemproma",
+    "components": [
+      "eksema",
+      "proma"
+    ],
+    "gloss": "example-prompt",
+    "meaning": "few-shot prompt"
+  },
+  {
+    "compound": "halurepa",
+    "components": [
+      "halua",
+      "repa"
+    ],
+    "gloss": "hallucination-response",
+    "meaning": "hallucinated response"
+  },
+  {
+    "compound": "tulmeka",
+    "components": [
+      "tula",
+      "meka"
+    ],
+    "gloss": "tool-mechanism",
+    "meaning": "agentic workflow"
+  },
+  {
+    "compound": "memneta",
+    "components": [
+      "mema",
+      "neta"
+    ],
+    "gloss": "memory-network",
+    "meaning": "RAG / retrieval-augmented system"
+  },
+  {
+    "compound": "leksikdoka",
+    "components": [
+      "leksika",
+      "doka"
+    ],
+    "gloss": "lexicon-document",
+    "meaning": "dictionary file"
+  },
+  {
+    "compound": "gramgida",
+    "components": [
+      "grama",
+      "gida"
+    ],
+    "gloss": "grammar-guide",
+    "meaning": "grammar reference"
+  },
+  {
+    "compound": "kuamanera",
+    "components": [
+      "kua",
+      "manera"
+    ],
+    "gloss": "what-manner",
+    "meaning": "how"
+  },
+  {
+    "compound": "kuatempa",
+    "components": [
+      "kua",
+      "tempa"
+    ],
+    "gloss": "what-time",
+    "meaning": "when"
+  },
+  {
+    "compound": "kuakausa",
+    "components": [
+      "kua",
+      "kausa"
+    ],
+    "gloss": "what-cause",
+    "meaning": "why"
+  },
+  {
+    "compound": "fintuna",
+    "components": [
+      "fina",
+      "tuna"
+    ],
+    "gloss": "fine-parameter-adjustment",
+    "meaning": "fine-tuning"
+  },
+  {
+    "compound": "renlena",
+    "components": [
+      "rena",
+      "lena"
+    ],
+    "gloss": "reward-learning",
+    "meaning": "reinforcement learning"
+  },
+  {
+    "compound": "umanrenlena",
+    "components": [
+      "umana",
+      "rena",
+      "lena"
+    ],
+    "gloss": "human-reward-learning",
+    "meaning": "RLHF"
+  },
+  {
+    "compound": "moteka",
+    "components": [
+      "moda",
+      "teka"
+    ],
+    "gloss": "model-structure",
+    "meaning": "model internals / architecture"
+  },
+  {
+    "compound": "lenkopa",
+    "components": [
+      "lena",
+      "kopa"
+    ],
+    "gloss": "learning-corpus",
+    "meaning": "training dataset"
+  },
+  {
+    "compound": "modkontekpotokola",
+    "components": [
+      "moda",
+      "konteka",
+      "potokola"
+    ],
+    "gloss": "model-context-protocol",
+    "meaning": "Model Context Protocol (MCP)"
+  },
+  {
+    "compound": "limrela",
+    "components": [
+      "lima",
+      "rela"
+    ],
+    "gloss": "limit-rail",
+    "meaning": "guardrail"
+  },
+  {
+    "compound": "apintera",
+    "components": [
+      "apa",
+      "intera"
+    ],
+    "gloss": "application-interface",
+    "meaning": "API"
+  },
+  {
+    "compound": "meklena",
+    "components": [
+      "meka",
+      "lena"
+    ],
+    "gloss": "made-language",
+    "meaning": "constructed language / conlang"
+  }
+]

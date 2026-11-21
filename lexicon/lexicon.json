@@ -1,0 +1,646 @@
+{
+  "language": "Promta",
+  "autonym": "promta",
+  "alphabet": {
+    "vowels": [
+      "a",
+      "e",
+      "i",
+      "u"
+    ],
+    "consonants": [
+      "p",
+      "t",
+      "k",
+      "s",
+      "m",
+      "n",
+      "l",
+      "r"
+    ]
+  },
+  "roots": [
+    {
+      "root": "mi-",
+      "noun": "mia",
+      "verb": null,
+      "adj_adv": "mie",
+      "domain": "core",
+      "meaning": "first-person pronoun (I / we)"
+    },
+    {
+      "root": "tu-",
+      "noun": "tua",
+      "verb": null,
+      "adj_adv": "tue",
+      "domain": "core",
+      "meaning": "second-person pronoun (you)"
+    },
+    {
+      "root": "it-",
+      "noun": "ita",
+      "verb": null,
+      "adj_adv": "ite",
+      "domain": "core",
+      "meaning": "third-person / system pronoun (it / system)"
+    },
+    {
+      "root": "es-",
+      "noun": "esa",
+      "verb": "esi",
+      "adj_adv": "ese",
+      "domain": "core",
+      "meaning": "to be / existence (copula)"
+    },
+    {
+      "root": "mek-",
+      "noun": "meka",
+      "verb": "meki",
+      "adj_adv": "meke",
+      "domain": "core",
+      "meaning": "compute, generate, make, execute"
+    },
+    {
+      "root": "len-",
+      "noun": "lena",
+      "verb": "leni",
+      "adj_adv": "lene",
+      "domain": "core",
+      "meaning": "learn, train, language system"
+    },
+    {
+      "root": "map-",
+      "noun": "mapa",
+      "verb": "mapi",
+      "adj_adv": "mape",
+      "domain": "core",
+      "meaning": "map, vector, project, transform"
+    },
+    {
+      "root": "kontin-",
+      "noun": "kontina",
+      "verb": "kontini",
+      "adj_adv": "kontine",
+      "domain": "core",
+      "meaning": "continue, proceed"
+    },
+    {
+      "root": "pim-",
+      "noun": "pima",
+      "verb": "pimi",
+      "adj_adv": "pime",
+      "domain": "core",
+      "meaning": "first, initial, start"
+    },
+    {
+      "root": "tans-",
+      "noun": "tansa",
+      "verb": "tansi",
+      "adj_adv": "tanse",
+      "domain": "core",
+      "meaning": "translate, translation"
+    },
+    {
+      "root": "lok-",
+      "noun": "loka",
+      "verb": "loki",
+      "adj_adv": "loke",
+      "domain": "core",
+      "meaning": "say, utter, speech, place"
+    },
+    {
+      "root": "kalar-",
+      "noun": "kalara",
+      "verb": "kalari",
+      "adj_adv": "kalare",
+      "domain": "core",
+      "meaning": "clear, clarify, transparent"
+    },
+    {
+      "root": "pan-",
+      "noun": "pana",
+      "verb": "pani",
+      "adj_adv": "pane",
+      "domain": "core",
+      "meaning": "expand, grow, expansion"
+    },
+    {
+      "root": "kip-",
+      "noun": "kipa",
+      "verb": "kipi",
+      "adj_adv": "kipe",
+      "domain": "core",
+      "meaning": "keep, maintain, retain"
+    },
+    {
+      "root": "run-",
+      "noun": "runa",
+      "verb": "runi",
+      "adj_adv": "rune",
+      "domain": "core",
+      "meaning": "run, execute, ongoing flow"
+    },
+    {
+      "root": "gid-",
+      "noun": "gida",
+      "verb": "gidi",
+      "adj_adv": "gide",
+      "domain": "core",
+      "meaning": "guide, reference manual"
+    },
+    {
+      "root": "dok-",
+      "noun": "doka",
+      "verb": "doki",
+      "adj_adv": "doke",
+      "domain": "core",
+      "meaning": "document, file"
+    },
+    {
+      "root": "leksik-",
+      "noun": "leksika",
+      "verb": "leksiki",
+      "adj_adv": "leksike",
+      "domain": "core",
+      "meaning": "lexicon, vocabulary"
+    },
+    {
+      "root": "gram-",
+      "noun": "grama",
+      "verb": "grami",
+      "adj_adv": "grame",
+      "domain": "core",
+      "meaning": "grammar, syntax"
+    },
+    {
+      "root": "kaus-",
+      "noun": "kausa",
+      "verb": "kausi",
+      "adj_adv": "kause",
+      "domain": "core",
+      "meaning": "cause, reason"
+    },
+    {
+      "root": "maner-",
+      "noun": "manera",
+      "verb": "maneri",
+      "adj_adv": "manere",
+      "domain": "core",
+      "meaning": "manner, method, way"
+    },
+    {
+      "root": "temp-",
+      "noun": "tempa",
+      "verb": "tempi",
+      "adj_adv": "tempe",
+      "domain": "core",
+      "meaning": "time, step, turn"
+    },
+    {
+      "root": "komand-",
+      "noun": "komanda",
+      "verb": "komandi",
+      "adj_adv": "komande",
+      "domain": "core",
+      "meaning": "command, directive, imperative"
+    },
+    {
+      "root": "kondis-",
+      "noun": "kondisa",
+      "verb": "kondisi",
+      "adj_adv": "kondise",
+      "domain": "core",
+      "meaning": "condition, state"
+    },
+    {
+      "root": "logik-",
+      "noun": "logika",
+      "verb": "logiki",
+      "adj_adv": "logike",
+      "domain": "core",
+      "meaning": "logic, reasoning"
+    },
+    {
+      "root": "apdet-",
+      "noun": "apdeta",
+      "verb": "apdeti",
+      "adj_adv": "apdete",
+      "domain": "core",
+      "meaning": "update, sync"
+    },
+    {
+      "root": "kum-",
+      "noun": "kuma",
+      "verb": "kumi",
+      "adj_adv": "kume",
+      "domain": "core",
+      "meaning": "cover, encompass, include"
+    },
+    {
+      "root": "konsep-",
+      "noun": "konsepa",
+      "verb": "konsepi",
+      "adj_adv": "konsepe",
+      "domain": "core",
+      "meaning": "concept, abstract idea"
+    },
+    {
+      "root": "term-",
+      "noun": "terma",
+      "verb": "termi",
+      "adj_adv": "terme",
+      "domain": "core",
+      "meaning": "word, technical term"
+    },
+    {
+      "root": "kup-",
+      "noun": "kupa",
+      "verb": "kupi",
+      "adj_adv": "kupe",
+      "domain": "core",
+      "meaning": "want, desire, intend"
+    },
+    {
+      "root": "sar-",
+      "noun": "sara",
+      "verb": "sari",
+      "adj_adv": "sare",
+      "domain": "core",
+      "meaning": "share, distribute, publish"
+    },
+    {
+      "root": "tes-",
+      "noun": "tesa",
+      "verb": "tesi",
+      "adj_adv": "tese",
+      "domain": "core",
+      "meaning": "this, demonstrative referent"
+    },
+    {
+      "root": "ker-",
+      "noun": "kera",
+      "verb": "keri",
+      "adj_adv": "kere",
+      "domain": "core",
+      "meaning": "create, originate"
+    },
+    {
+      "root": "porek-",
+      "noun": "poreka",
+      "verb": "poreki",
+      "adj_adv": "poreke",
+      "domain": "core",
+      "meaning": "project, repository, plan"
+    },
+    {
+      "root": "super-",
+      "noun": "supera",
+      "verb": "superi",
+      "adj_adv": "supere",
+      "domain": "core",
+      "meaning": "best, optimal, optimize"
+    },
+    {
+      "root": "komit-",
+      "noun": "komita",
+      "verb": "komiti",
+      "adj_adv": "komite",
+      "domain": "core",
+      "meaning": "commit, version snapshot"
+    },
+    {
+      "root": "ni-",
+      "noun": "nia",
+      "verb": "nii",
+      "adj_adv": "nie",
+      "domain": "core",
+      "meaning": "nothing, zero, null"
+    },
+    {
+      "root": "prom-",
+      "noun": "proma",
+      "verb": "promi",
+      "adj_adv": "prome",
+      "domain": "ai_architecture",
+      "meaning": "prompt; language root"
+    },
+    {
+      "root": "tok-",
+      "noun": "toka",
+      "verb": "toki",
+      "adj_adv": "toke",
+      "domain": "ai_architecture",
+      "meaning": "token, subword unit"
+    },
+    {
+      "root": "mod-",
+      "noun": "moda",
+      "verb": "modi",
+      "adj_adv": "mode",
+      "domain": "ai_architecture",
+      "meaning": "AI model"
+    },
+    {
+      "root": "ten-",
+      "noun": "tena",
+      "verb": "teni",
+      "adj_adv": "tene",
+      "domain": "ai_architecture",
+      "meaning": "attention mechanism"
+    },
+    {
+      "root": "lat-",
+      "noun": "lata",
+      "verb": "lati",
+      "adj_adv": "late",
+      "domain": "ai_architecture",
+      "meaning": "latent space / representation"
+    },
+    {
+      "root": "net-",
+      "noun": "neta",
+      "verb": "neti",
+      "adj_adv": "nete",
+      "domain": "ai_architecture",
+      "meaning": "neural network"
+    },
+    {
+      "root": "pon-",
+      "noun": "pona",
+      "verb": "poni",
+      "adj_adv": "pone",
+      "domain": "ai_architecture",
+      "meaning": "model weights, parameter values"
+    },
+    {
+      "root": "ler-",
+      "noun": "lera",
+      "verb": "leri",
+      "adj_adv": "lere",
+      "domain": "ai_architecture",
+      "meaning": "neural network layer"
+    },
+    {
+      "root": "emp-",
+      "noun": "empa",
+      "verb": "empi",
+      "adj_adv": "empe",
+      "domain": "ai_architecture",
+      "meaning": "dense vector embedding"
+    },
+    {
+      "root": "fin-",
+      "noun": "fina",
+      "verb": "fini",
+      "adj_adv": "fine",
+      "domain": "ai_architecture",
+      "meaning": "precision, refinement"
+    },
+    {
+      "root": "ren-",
+      "noun": "rena",
+      "verb": "reni",
+      "adj_adv": "rene",
+      "domain": "ai_architecture",
+      "meaning": "reward signal, reinforcement"
+    },
+    {
+      "root": "uman-",
+      "noun": "umana",
+      "verb": "umani",
+      "adj_adv": "umane",
+      "domain": "ai_architecture",
+      "meaning": "human evaluator or user"
+    },
+    {
+      "root": "fit-",
+      "noun": "fita",
+      "verb": "fiti",
+      "adj_adv": "fite",
+      "domain": "ai_architecture",
+      "meaning": "feedback, preference signal"
+    },
+    {
+      "root": "los-",
+      "noun": "losa",
+      "verb": "losi",
+      "adj_adv": "lose",
+      "domain": "ai_architecture",
+      "meaning": "training loss, error gradient"
+    },
+    {
+      "root": "infer-",
+      "noun": "infera",
+      "verb": "inferi",
+      "adj_adv": "infere",
+      "domain": "ai_architecture",
+      "meaning": "forward-pass inference"
+    },
+    {
+      "root": "kop-",
+      "noun": "kopa",
+      "verb": "kopi",
+      "adj_adv": "kope",
+      "domain": "ai_architecture",
+      "meaning": "corpus, training dataset"
+    },
+    {
+      "root": "tek-",
+      "noun": "teka",
+      "verb": "teki",
+      "adj_adv": "teke",
+      "domain": "ai_architecture",
+      "meaning": "architecture, internal structure"
+    },
+    {
+      "root": "kuer-",
+      "noun": "kuera",
+      "verb": "kueri",
+      "adj_adv": "kuere",
+      "domain": "ai_interaction",
+      "meaning": "query, user question"
+    },
+    {
+      "root": "kontek-",
+      "noun": "konteka",
+      "verb": "konteki",
+      "adj_adv": "konteke",
+      "domain": "ai_interaction",
+      "meaning": "context, context window"
+    },
+    {
+      "root": "sistem-",
+      "noun": "sistema",
+      "verb": "sistemi",
+      "adj_adv": "sisteme",
+      "domain": "ai_interaction",
+      "meaning": "system prompt, base rules"
+    },
+    {
+      "root": "eksem-",
+      "noun": "eksema",
+      "verb": "eksemi",
+      "adj_adv": "ekseme",
+      "domain": "ai_interaction",
+      "meaning": "few-shot example"
+    },
+    {
+      "root": "rol-",
+      "noun": "rola",
+      "verb": "roli",
+      "adj_adv": "role",
+      "domain": "ai_interaction",
+      "meaning": "role, assigned persona"
+    },
+    {
+      "root": "rep-",
+      "noun": "repa",
+      "verb": "repi",
+      "adj_adv": "repe",
+      "domain": "ai_interaction",
+      "meaning": "response, generated output"
+    },
+    {
+      "root": "iter-",
+      "noun": "itera",
+      "verb": "iteri",
+      "adj_adv": "itere",
+      "domain": "ai_interaction",
+      "meaning": "iteration, refinement turn"
+    },
+    {
+      "root": "edit-",
+      "noun": "edita",
+      "verb": "editi",
+      "adj_adv": "edite",
+      "domain": "ai_interaction",
+      "meaning": "edit, steer, modify output"
+    },
+    {
+      "root": "tun-",
+      "noun": "tuna",
+      "verb": "tuni",
+      "adj_adv": "tune",
+      "domain": "ai_interaction",
+      "meaning": "parameter, tune, calibrate"
+    },
+    {
+      "root": "imit-",
+      "noun": "imita",
+      "verb": "imiti",
+      "adj_adv": "imite",
+      "domain": "ai_interaction",
+      "meaning": "simulation, synthetic data"
+    },
+    {
+      "root": "al-",
+      "noun": "ala",
+      "verb": "ali",
+      "adj_adv": "ale",
+      "domain": "ai_interaction",
+      "meaning": "alignment, safety, intent match"
+    },
+    {
+      "root": "bias-",
+      "noun": "biasa",
+      "verb": "biasi",
+      "adj_adv": "biase",
+      "domain": "ai_interaction",
+      "meaning": "bias, distribution skew"
+    },
+    {
+      "root": "halu-",
+      "noun": "halua",
+      "verb": "halui",
+      "adj_adv": "halue",
+      "domain": "ai_interaction",
+      "meaning": "hallucination, fabricated output"
+    },
+    {
+      "root": "tul-",
+      "noun": "tula",
+      "verb": "tuli",
+      "adj_adv": "tule",
+      "domain": "ai_interaction",
+      "meaning": "tool, function call, plugin"
+    },
+    {
+      "root": "mem-",
+      "noun": "mema",
+      "verb": "memi",
+      "adj_adv": "meme",
+      "domain": "ai_interaction",
+      "meaning": "memory, stateful persistence"
+    },
+    {
+      "root": "potokol-",
+      "noun": "potokola",
+      "verb": "potokoli",
+      "adj_adv": "potokole",
+      "domain": "ai_interaction",
+      "meaning": "protocol, interface standard"
+    },
+    {
+      "root": "lim-",
+      "noun": "lima",
+      "verb": "limi",
+      "adj_adv": "lime",
+      "domain": "ai_interaction",
+      "meaning": "limit, constraint, boundary"
+    },
+    {
+      "root": "rel-",
+      "noun": "rela",
+      "verb": "reli",
+      "adj_adv": "rele",
+      "domain": "ai_interaction",
+      "meaning": "rail, policy rule, boundary track"
+    },
+    {
+      "root": "kat-",
+      "noun": "kata",
+      "verb": "kati",
+      "adj_adv": "kate",
+      "domain": "ai_interaction",
+      "meaning": "guard, shield, protection"
+    },
+    {
+      "root": "ap-",
+      "noun": "apa",
+      "verb": "api",
+      "adj_adv": "ape",
+      "domain": "ai_interaction",
+      "meaning": "application, software program"
+    },
+    {
+      "root": "inter-",
+      "noun": "intera",
+      "verb": "interi",
+      "adj_adv": "intere",
+      "domain": "ai_interaction",
+      "meaning": "interface, endpoint, connection layer"
+    }
+  ],
+  "particles": [
+    "in",
+    "an",
+    "bat",
+    "so",
+    "as",
+    "de",
+    "kua",
+    "sempre",
+    "kan",
+    "ne",
+    "ka",
+    "si",
+    "ten",
+    "plis",
+    "komo",
+    "o",
+    "ia",
+    "ankora",
+    "por",
+    "via"
+  ]
+}
