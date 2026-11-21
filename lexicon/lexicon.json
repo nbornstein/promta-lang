@@ -1,7 +1,7 @@
 {
   "language": "Promta",
   "native_name": "promta",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "phonology": {
     "alphabet_size": 15,
     "vowels": [
@@ -151,17 +151,17 @@
         "meaning": "Document, file (document / to document / documented)"
       },
       {
-        "root": "leksik-",
-        "noun": "leksika",
-        "verb": "leksiki",
-        "modifier": "leksike",
+        "root": "lesik-",
+        "noun": "lesika",
+        "verb": "lesiki",
+        "modifier": "lesike",
         "meaning": "Lexicon, vocabulary (lexicon / to lexicalize / lexical)"
       },
       {
-        "root": "gram-",
-        "noun": "grama",
-        "verb": "grami",
-        "modifier": "grame",
+        "root": "garam-",
+        "noun": "garama",
+        "verb": "garami",
+        "modifier": "garame",
         "meaning": "Grammar, syntax (grammar / to parse / grammatical)"
       },
       {
@@ -207,10 +207,10 @@
         "meaning": "Logic, reasoning (logic / to reason / logical)"
       },
       {
-        "root": "apdet-",
-        "noun": "apdeta",
-        "verb": "apdeti",
-        "modifier": "apdete",
+        "root": "apadet-",
+        "noun": "apadeta",
+        "verb": "apadeti",
+        "modifier": "apadete",
         "meaning": "Update, sync (update / to update / updated)"
       },
       {
@@ -228,10 +228,10 @@
         "meaning": "Concept, abstract idea (concept / to conceptualize / conceptual)"
       },
       {
-        "root": "term-",
-        "noun": "terma",
-        "verb": "termi",
-        "modifier": "terme",
+        "root": "terem-",
+        "noun": "terema",
+        "verb": "teremi",
+        "modifier": "tereme",
         "meaning": "Word, technical term (term / to name / terminological)"
       },
       {
@@ -643,11 +643,11 @@
     ],
     "ai_architecture": [
       {
-        "root": "prom-",
-        "noun": "proma",
-        "verb": "promi",
-        "modifier": "prome",
-        "meaning": "Prompt; also the root of Promta"
+        "root": "porom-",
+        "noun": "poroma",
+        "verb": "poromi",
+        "modifier": "porome",
+        "meaning": "Prompt; also the root of Promta (adapted from *poroma*)"
       },
       {
         "root": "tok-",
@@ -706,11 +706,11 @@
         "meaning": "Dense vector embedding"
       },
       {
-        "root": "fin-",
-        "noun": "fina",
-        "verb": "fini",
-        "modifier": "fine",
-        "meaning": "Precision; combines with tuna for fine-tuning"
+        "root": "pin-",
+        "noun": "pina",
+        "verb": "pini",
+        "modifier": "pine",
+        "meaning": "Precision, refinement; combines with tuna for fine-tuning"
       },
       {
         "root": "ren-",
@@ -727,10 +727,10 @@
         "meaning": "Human evaluator or user"
       },
       {
-        "root": "fit-",
-        "noun": "fita",
-        "verb": "fiti",
-        "modifier": "fite",
+        "root": "pit-",
+        "noun": "pita",
+        "verb": "piti",
+        "modifier": "pite",
         "meaning": "Evaluation signal or human preference feedback"
       },
       {
@@ -741,10 +741,10 @@
         "meaning": "Training loss / error signal"
       },
       {
-        "root": "infer-",
-        "noun": "infera",
-        "verb": "inferi",
-        "modifier": "infere",
+        "root": "inper-",
+        "noun": "inpera",
+        "verb": "inperi",
+        "modifier": "inpere",
         "meaning": "Forward-pass inference / generation"
       },
       {
@@ -785,17 +785,17 @@
         "meaning": "Context or context window"
       },
       {
-        "root": "sistem-",
-        "noun": "sistema",
-        "verb": "sistemi",
-        "modifier": "sisteme",
+        "root": "sisitem-",
+        "noun": "sisitema",
+        "verb": "sisitemi",
+        "modifier": "sisiteme",
         "meaning": "System prompt, guardrails, rules"
       },
       {
-        "root": "eksem-",
-        "noun": "eksema",
-        "verb": "eksemi",
-        "modifier": "ekseme",
+        "root": "ekesem-",
+        "noun": "ekesema",
+        "verb": "ekesemi",
+        "modifier": "ekeseme",
         "meaning": "Few-shot example"
       },
       {
@@ -848,18 +848,18 @@
         "meaning": "Safety, helpfulness, intent match"
       },
       {
-        "root": "bias-",
-        "noun": "biasa",
-        "verb": "biasi",
-        "modifier": "biase",
+        "root": "pias-",
+        "noun": "piasa",
+        "verb": "piasi",
+        "modifier": "piase",
         "meaning": "Model bias or distribution skew"
       },
       {
-        "root": "halu-",
-        "noun": "halua",
-        "verb": "halui",
-        "modifier": "halue",
-        "meaning": "Fabricated or ungrounded output"
+        "root": "alu-",
+        "noun": "alua",
+        "verb": "alui",
+        "modifier": "alue",
+        "meaning": "Fabricated or ungrounded output (hallucination)"
       },
       {
         "root": "tul-",
@@ -929,7 +929,7 @@
       "meaning": "and"
     },
     {
-      "word": "bat",
+      "word": "pata",
       "meaning": "but"
     },
     {
@@ -937,7 +937,7 @@
       "meaning": "so / therefore"
     },
     {
-      "word": "as",
+      "word": "sa",
       "meaning": "as / while"
     },
     {
@@ -949,7 +949,7 @@
       "meaning": "what / which"
     },
     {
-      "word": "sempre",
+      "word": "semepere",
       "meaning": "always"
     },
     {
@@ -973,7 +973,7 @@
       "meaning": "then"
     },
     {
-      "word": "plis",
+      "word": "pilisa",
       "meaning": "please / polite imperative"
     },
     {
@@ -1007,7 +1007,7 @@
   ],
   "compounds": [
     {
-      "word": "konteklata",
+      "word": "kontekalata",
       "components": [
         "konteka",
         "lata"
@@ -1015,23 +1015,23 @@
       "meaning": "Context window ('context space')"
     },
     {
-      "word": "eksemproma",
+      "word": "ekesemoporoma",
       "components": [
-        "eksema",
-        "proma"
+        "ekesema",
+        "poroma"
       ],
       "meaning": "Few-shot prompt ('example-prompt')"
     },
     {
-      "word": "halurepa",
+      "word": "alurepa",
       "components": [
-        "halua",
+        "alua",
         "repa"
       ],
       "meaning": "Hallucinated response"
     },
     {
-      "word": "tulmeka",
+      "word": "tulameka",
       "components": [
         "tula",
         "meka"
@@ -1047,17 +1047,17 @@
       "meaning": "RAG system ('memory-network')"
     },
     {
-      "word": "leksikdoka",
+      "word": "lesikadoka",
       "components": [
-        "leksika",
+        "lesika",
         "doka"
       ],
       "meaning": "Lexicon document / dictionary file"
     },
     {
-      "word": "gramgida",
+      "word": "garamagida",
       "components": [
-        "grama",
+        "garama",
         "gida"
       ],
       "meaning": "Grammar guide"
@@ -1095,12 +1095,12 @@
       "meaning": "Why ('what-cause')"
     },
     {
-      "word": "fintuna",
+      "word": "pinatuna",
       "components": [
-        "fina",
+        "pina",
         "tuna"
       ],
-      "meaning": "Fine-tuning ('fine-parameter-adjustment')"
+      "meaning": "Fine-tuning ('precision-adjustment')"
     },
     {
       "word": "renlena",
@@ -1136,16 +1136,16 @@
       "meaning": "Training dataset ('learning-corpus')"
     },
     {
-      "word": "modkontekpotokola",
+      "word": "modakontekapotokola",
       "components": [
         "moda",
         "konteka",
         "potokola"
       ],
-      "meaning": "Model Context Protocol / MCP (short: kontekpotokola)"
+      "meaning": "Model Context Protocol / MCP (short: kontekapotokola)"
     },
     {
-      "word": "kontekpotokola",
+      "word": "kontekapotokola",
       "components": [
         "konteka",
         "potokola"
@@ -1177,7 +1177,7 @@
       "meaning": "Tool-calling API ('tool-interface')"
     },
     {
-      "word": "meklena",
+      "word": "mekalena",
       "components": [
         "meka",
         "lena"
@@ -1185,7 +1185,7 @@
       "meaning": "Constructed language / conlang ('made-language')"
     },
     {
-      "word": "komitmesaka",
+      "word": "komitamesaka",
       "components": [
         "komita",
         "mesaka"

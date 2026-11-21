@@ -7,7 +7,7 @@ An engineered, minimalist, English-friendly constructed language designed for un
 - **15-Letter Phonemic Alphabet:** 5 vowels (`a, e, i, o, u`) and 10 consonants (`p, d, t, g, k, s, m, n, l, r`) with strict one-to-one letter-to-sound correspondence.
 - **Cluster-Free `(C)V(N)` Syllables:** Every syllable consists of an optional single onset consonant, a mandatory vowel, and an optional nasal coda (`m` au `n`).
 - **Deterministic Part-of-Speech Endings:** Content words end in `-a` (noun), `-i` (verb), au `-e` (adjective/adverb).
-- **Strict SVO Syntax:** Head-final modifiers and head-final compounding (`konteka` + `lata` -> `konteklata`).
+- **Strict SVO Syntax:** Head-final modifiers and head-final compounding (`konteka` + `lata` -> `kontekalata`).
 
 ## Repository Structure
 
@@ -41,7 +41,7 @@ python3 tools/validate_promta.py examples/system-prompt.promta
 
 ---
 
-## Promta (`promta`) — Promte Tansa
+## Promta (`promta`) — Poromte Tansa
 
 Disane, minime, ingele-amike meke lena poreke po monosene komunika de genere AI, nete teka, an umane-AI runa.
 
@@ -49,8 +49,8 @@ Disane, minime, ingele-amike meke lena poreke po monosene komunika de genere AI,
 
 - **15-Letese Ponemleteseta:** 5 misonala (`a, e, i, o, u`) an 10 mikonsona (`p, d, t, g, k, s, m, n, l, r`) kapi sikite una-tu-una letesa-tu-ponema mapa.
 - **Sin-Gupa `(C)V(N)` Misilapa:** Kada silapa kapi eleke sole pime konsona, nesese sonala, an eleke nasale koda (`m` au `n`).
-- **Detemine Grame Kalasa Mikoda:** Mikontentema kodi in `-a` (noma), `-i` (akisona), au `-e` (modipika).
-- **Sikite SVO Sintaka:** Kode-kime mimodipika an kode-kime unia (`konteka` + `lata` -> `konteklata`).
+- **Detemine Garame Kalasa Mikoda:** Mikontentema kodi in `-a` (noma), `-i` (akisona), au `-e` (modipika).
+- **Sikite SVO Sintaka:** Kode-kime mimodipika an kode-kime unia (`konteka` + `lata` -> `kontekalata`).
 
 ### Poreka Teka
 
@@ -59,9 +59,9 @@ promta-lang/
 ├── README.md
 ├── spec/
 │   ├── 01-phonology.md    # 15-letese leteseta an (C)V(N) silapa mirula
-│   └── 02-grammar.md      # SVO sintaka, grame kalasa mikoda, mipartikla, mikondisa
+│   └── 02-grammar.md      # SVO sintaka, garame kalasa mikoda, mipartikla, mikondisa
 ├── lexicon/
-│   ├── LEXICON.md         # Kanonike Markdown leksika mitabela
+│   ├── LEXICON.md         # Kanonike Markdown lesika mitabela
 │   └── lexicon.json       # Meka-leke ruta an unitema kipa
 ├── examples/
 │   ├── conversation-log.md
@@ -79,5 +79,5 @@ python3 tools/validate_promta.py examples/system-prompt.promta
 
 ### Lisensa
 
-- **Lena Teka, Leksika, Midoka an Mieksema** (`README.md`, `spec/`, `lexicon/`, `examples/`): Lisense in [CC BY-SA 4.0](LICENSE-CONTENT) (kapi atributa an sare-same mikondisa).
+- **Lena Teka, Lesika, Midoka an Mieksema** (`README.md`, `spec/`, `lexicon/`, `examples/`): Lisense in [CC BY-SA 4.0](LICENSE-CONTENT) (kapi atributa an sare-same mikondisa).
 - **Meka an Kurek-Mitula** (`tools/`): Lisense in [MIT Lisensa](LICENSE).

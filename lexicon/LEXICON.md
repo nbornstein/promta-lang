@@ -23,18 +23,18 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 | **run-** | *runa* | *runi* | *rune* | Run, flow, ongoing (run / to run / active) |
 | **gide-** | *gida* | *gidi* | *gide* | Guide, reference (guide / to guide / guided) |
 | **dok-** | *doka* | *doki* | *doke* | Document, file (document / to document / documented) |
-| **leksik-** | *leksika* | *leksiki* | *leksike* | Lexicon, vocabulary (lexicon / to lexicalize / lexical) |
-| **gram-** | *grama* | *grami* | *grame* | Grammar, syntax (grammar / to parse / grammatical) |
+| **lesik-** | *lesika* | *lesiki* | *lesike* | Lexicon, vocabulary (lexicon / to lexicalize / lexical) |
+| **garam-** | *garama* | *garami* | *garame* | Grammar, syntax (grammar / to parse / grammatical) |
 | **kaus-** | *kausa* | *kausi* | *kause* | Cause, reason (cause / to cause / causal) |
 | **maner-** | *manera* | *maneri* | *manere* | Manner, method, how (manner / to handle / procedural) |
 | **temp-** | *tempa* | *tempi* | *tempe* | Time, step, turn (time / to time / temporal) |
 | **komand-** | *komanda* | *komandi* | *komande* | Command, directive (command / to command / imperative) |
 | **kondis-** | *kondisa* | *kondisi* | *kondise* | Condition, state (condition / to condition / conditional) |
 | **logik-** | *logika* | *logiki* | *logike* | Logic, reasoning (logic / to reason / logical) |
-| **apdet-** | *apdeta* | *apdeti* | *apdete* | Update, sync (update / to update / updated) |
+| **apadet-** | *apadeta* | *apadeti* | *apadete* | Update, sync (update / to update / updated) |
 | **kum-** | *kuma* | *kumi* | *kume* | Cover, encompass, include (coverage / to cover / comprehensive) |
 | **konsep-** | *konsepa* | *konsepi* | *konsepe* | Concept, abstract idea (concept / to conceptualize / conceptual) |
-| **term-** | *terma* | *termi* | *terme* | Word, technical term (term / to name / terminological) |
+| **terem-** | *terema* | *teremi* | *tereme* | Word, technical term (term / to name / terminological) |
 | **kup-** | *kupa* | *kupi* | *kupe* | Want, desire, intend (desire / to want / desired) |
 | **sar-** | *sara* | *sari* | *sare* | Share, distribute, publish (share / to share / public) |
 | **tes-** | *tesa* | *tesi* | *tese* | Demonstrative determiner ('this') |
@@ -96,7 +96,7 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 
 ### Standalone Particles
 
-**in** (in / into), **an** (and), **bat** (but), **so** (so / therefore), **as** (as / while), **de** (of / about), **kua** (what / which), **sempre** (always), **kan** (can), **ne** (not), **ka** (yes/no question marker), **si** (if), **ten** (then), **plis** (please / polite imperative), **komo** (like / such as), **o** (oh / interjection), **ia** (yes), **ankora** (yet / still), **po** (for / in order to), **sin** (without), **au** (or).
+**in** (in / into), **an** (and), **pata** (but), **so** (so / therefore), **sa** (as / while), **de** (of / about), **kua** (what / which), **semepere** (always), **kan** (can), **ne** (not), **ka** (yes/no question marker), **si** (if), **ten** (then), **pilisa** (please / polite imperative), **komo** (like / such as), **o** (oh / interjection), **ia** (yes), **ankora** (yet / still), **po** (for / in order to), **sin** (without), **au** (or).
 
 ---
 
@@ -104,7 +104,7 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 
 | Root | Noun (`-a`) | Verb (`-i`) | Adj/Adv (`-e`) | Meaning & Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **prom-** | *proma* | *promi* | *prome* | Prompt; also the root of Promta |
+| **porom-** | *poroma* | *poromi* | *porome* | Prompt; also the root of Promta (adapted from *poroma*) |
 | **tok-** | *toka* | *toki* | *toke* | Token / subword unit |
 | **mod-** | *moda* | *modi* | *mode* | AI model |
 | **ten-** | *tena* | *teni* | *tene* | Attention mechanism |
@@ -113,12 +113,12 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 | **pon-** | *pona* | *poni* | *pone* | Model weights and parameter values |
 | **ler-** | *lera* | *leri* | *lere* | Neural network layer (e.g., transformer layer) |
 | **emp-** | *empa* | *empi* | *empe* | Dense vector embedding |
-| **fin-** | *fina* | *fini* | *fine* | Precision; combines with tuna for fine-tuning |
+| **pin-** | *pina* | *pini* | *pine* | Precision, refinement; combines with tuna for fine-tuning |
 | **ren-** | *rena* | *reni* | *rene* | Reward signal / reinforcement |
 | **uman-** | *umana* | *umani* | *umane* | Human evaluator or user |
-| **fit-** | *fita* | *fiti* | *fite* | Evaluation signal or human preference feedback |
+| **pit-** | *pita* | *piti* | *pite* | Evaluation signal or human preference feedback |
 | **los-** | *losa* | *losi* | *lose* | Training loss / error signal |
-| **infer-** | *infera* | *inferi* | *infere* | Forward-pass inference / generation |
+| **inper-** | *inpera* | *inperi* | *inpere* | Forward-pass inference / generation |
 | **kop-** | *kopa* | *kopi* | *kope* | Training dataset or corpus |
 | **tek-** | *teka* | *teki* | *teke* | Model architecture and internal structure |
 | **gener-** | *genera* | *generi* | *genere* | Generation, generative modeling (generation / to generate / generative) |
@@ -131,8 +131,8 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 | :--- | :--- | :--- | :--- | :--- |
 | **kuer-** | *kuera* | *kueri* | *kuere* | User question or request |
 | **kontek-** | *konteka* | *konteki* | *konteke* | Context or context window |
-| **sistem-** | *sistema* | *sistemi* | *sisteme* | System prompt, guardrails, rules |
-| **eksem-** | *eksema* | *eksemi* | *ekseme* | Few-shot example |
+| **sisitem-** | *sisitema* | *sisitemi* | *sisiteme* | System prompt, guardrails, rules |
+| **ekesem-** | *ekesema* | *ekesemi* | *ekeseme* | Few-shot example |
 | **rol-** | *rola* | *roli* | *role* | Assigned persona or role |
 | **rep-** | *repa* | *repi* | *repe* | AI-generated output or reply |
 | **iter-** | *itera* | *iteri* | *itere* | Follow-up turn or refinement loop |
@@ -140,8 +140,8 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 | **tun-** | *tuna* | *tuni* | *tune* | Adjust temperature, weights, or tone |
 | **imit-** | *imita* | *imiti* | *imite* | Synthetic data or emulation |
 | **al-** | *ala* | *ali* | *ale* | Safety, helpfulness, intent match |
-| **bias-** | *biasa* | *biasi* | *biase* | Model bias or distribution skew |
-| **halu-** | *halua* | *halui* | *halue* | Fabricated or ungrounded output |
+| **pias-** | *piasa* | *piasi* | *piase* | Model bias or distribution skew |
+| **alu-** | *alua* | *alui* | *alue* | Fabricated or ungrounded output (hallucination) |
 | **tul-** | *tula* | *tuli* | *tule* | Function calling, external tool, plugin |
 | **mem-** | *mema* | *memi* | *meme* | Cross-session memory or RAG |
 | **potokol-** | *potokola* | *potokoli* | *potokole* | Protocol, interface standard |
@@ -155,29 +155,29 @@ All Promta vocabulary adheres to the **15-letter alphabet** (`a, e, i, o, u` + `
 
 ## 4. Useful Compound Terms
 
-- **konteklata** (*konteka* + *lata*) — Context window ('context space')
-- **eksemproma** (*eksema* + *proma*) — Few-shot prompt ('example-prompt')
-- **halurepa** (*halua* + *repa*) — Hallucinated response
-- **tulmeka** (*tula* + *meka*) — Agentic workflow ('tool-mechanism')
+- **kontekalata** (*konteka* + *lata*) — Context window ('context space')
+- **ekesemoporoma** (*ekesema* + *poroma*) — Few-shot prompt ('example-prompt')
+- **alurepa** (*alua* + *repa*) — Hallucinated response
+- **tulameka** (*tula* + *meka*) — Agentic workflow ('tool-mechanism')
 - **memneta** (*mema* + *neta*) — RAG system ('memory-network')
-- **leksikdoka** (*leksika* + *doka*) — Lexicon document / dictionary file
-- **gramgida** (*grama* + *gida*) — Grammar guide
+- **lesikadoka** (*lesika* + *doka*) — Lexicon document / dictionary file
+- **garamagida** (*garama* + *gida*) — Grammar guide
 - **kuamanera** (*kua* + *manera*) — How ('what-manner')
 - **kuatempa** (*kua* + *tempa*) — When ('what-time')
 - **kualoka** (*kua* + *loka*) — Where ('what-place')
 - **kuakausa** (*kua* + *kausa*) — Why ('what-cause')
-- **fintuna** (*fina* + *tuna*) — Fine-tuning ('fine-parameter-adjustment')
+- **pinatuna** (*pina* + *tuna*) — Fine-tuning ('precision-adjustment')
 - **renlena** (*rena* + *lena*) — Reinforcement learning ('reward-learning')
 - **umanrenlena** (*umana* + *rena* + *lena*) — RLHF ('human-reward-learning')
 - **moteka** (*moda* + *teka*) — Model internals / architecture ('model-structure')
 - **lenkopa** (*lena* + *kopa*) — Training dataset ('learning-corpus')
-- **modkontekpotokola** (*moda* + *konteka* + *potokola*) — Model Context Protocol / MCP (short: kontekpotokola)
-- **kontekpotokola** (*konteka* + *potokola*) — Short form for Model Context Protocol (MCP)
+- **modakontekapotokola** (*moda* + *konteka* + *potokola*) — Model Context Protocol / MCP (short: kontekapotokola)
+- **kontekapotokola** (*konteka* + *potokola*) — Short form for Model Context Protocol (MCP)
 - **limrela** (*lima* + *rela*) — Guardrail ('limit-rail'; plural: milimrela)
 - **apintera** (*apa* + *intera*) — API / Application Programming Interface ('application-interface')
 - **tulintera** (*tula* + *intera*) — Tool-calling API ('tool-interface')
-- **meklena** (*meka* + *lena*) — Constructed language / conlang ('made-language')
-- **komitmesaka** (*komita* + *mesaka*) — Commit message ('commit-message')
+- **mekalena** (*meka* + *lena*) — Constructed language / conlang ('made-language')
+- **komitamesaka** (*komita* + *mesaka*) — Commit message ('commit-message')
 - **leteseta** (*letesa* + *seta*) — Alphabet ('letter-set')
 - **ponemleteseta** (*ponema* + *letesa* + *seta*) — Phonemic alphabet ('phoneme-letter-set')
 - **kontentema** (*kontena* + *tema*) — Content word ('content-word')
