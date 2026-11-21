@@ -32,571 +32,11 @@
   "roots": {
     "core_logic": [
       {
-        "root": "mi-",
-        "noun": "mia",
-        "verb": null,
-        "modifier": "mie",
-        "meaning": "First-person pronoun (I / we; mie = my/our)"
-      },
-      {
-        "root": "tu-",
-        "noun": "tua",
-        "verb": null,
-        "modifier": "tue",
-        "meaning": "Second-person pronoun (you; tue = your)"
-      },
-      {
-        "root": "it-",
-        "noun": "ita",
-        "verb": null,
-        "modifier": "ite",
-        "meaning": "Third-person / system pronoun (it / the system; ite = its)"
-      },
-      {
-        "root": "es-",
-        "noun": "esa",
-        "verb": "esi",
-        "modifier": "ese",
-        "meaning": "Copula / state of being (existence / to be / existent)"
-      },
-      {
-        "root": "mek-",
-        "noun": "meka",
-        "verb": "meki",
-        "modifier": "meke",
-        "meaning": "Compute, generate, execute (mechanism / to make / computational)"
-      },
-      {
-        "root": "len-",
-        "noun": "lena",
-        "verb": "leni",
-        "modifier": "lene",
-        "meaning": "Train, optimize, acquire (learning / to learn / learned)"
-      },
-      {
-        "root": "map-",
-        "noun": "mapa",
-        "verb": "mapi",
-        "modifier": "mape",
-        "meaning": "Embed, project, transform (map / to map / embedded)"
-      },
-      {
-        "root": "kontin-",
-        "noun": "kontina",
-        "verb": "kontini",
-        "modifier": "kontine",
-        "meaning": "Continue, proceed (continuation / to continue / ongoing)"
-      },
-      {
-        "root": "pim-",
-        "noun": "pima",
-        "verb": "pimi",
-        "modifier": "pime",
-        "meaning": "First, initial (start / to begin / first)"
-      },
-      {
-        "root": "tans-",
-        "noun": "tansa",
-        "verb": "tansi",
-        "modifier": "tanse",
-        "meaning": "Translate (translation / to translate / translated)"
-      },
-      {
-        "root": "lok-",
-        "noun": "loka",
-        "verb": "loki",
-        "modifier": "loke",
-        "meaning": "Say, utter, state (speech / to say / spoken)"
-      },
-      {
-        "root": "kalar-",
-        "noun": "kalara",
-        "verb": "kalari",
-        "modifier": "kalare",
-        "meaning": "Clear, transparent (clarity / to clarify / clear)"
-      },
-      {
-        "root": "pan-",
-        "noun": "pana",
-        "verb": "pani",
-        "modifier": "pane",
-        "meaning": "Expand, grow (expansion / to expand / expanded)"
-      },
-      {
-        "root": "kip-",
-        "noun": "kipa",
-        "verb": "kipi",
-        "modifier": "kipe",
-        "meaning": "Keep, maintain, retain (retention / to keep / maintained)"
-      },
-      {
-        "root": "run-",
-        "noun": "runa",
-        "verb": "runi",
-        "modifier": "rune",
-        "meaning": "Run, flow, ongoing (run / to run / active)"
-      },
-      {
-        "root": "gide-",
-        "noun": "gida",
-        "verb": "gidi",
-        "modifier": "gide",
-        "meaning": "Guide, reference (guide / to guide / guided)"
-      },
-      {
-        "root": "dok-",
-        "noun": "doka",
-        "verb": "doki",
-        "modifier": "doke",
-        "meaning": "Document, file (document / to document / documented)"
-      },
-      {
-        "root": "lesik-",
-        "noun": "lesika",
-        "verb": "lesiki",
-        "modifier": "lesike",
-        "meaning": "Lexicon, vocabulary (lexicon / to lexicalize / lexical)"
-      },
-      {
-        "root": "garam-",
-        "noun": "garama",
-        "verb": "garami",
-        "modifier": "garame",
-        "meaning": "Grammar, syntax (grammar / to parse / grammatical)"
-      },
-      {
-        "root": "kaus-",
-        "noun": "kausa",
-        "verb": "kausi",
-        "modifier": "kause",
-        "meaning": "Cause, reason (cause / to cause / causal)"
-      },
-      {
-        "root": "maner-",
-        "noun": "manera",
-        "verb": "maneri",
-        "modifier": "manere",
-        "meaning": "Manner, method, how (manner / to handle / procedural)"
-      },
-      {
-        "root": "temp-",
-        "noun": "tempa",
-        "verb": "tempi",
-        "modifier": "tempe",
-        "meaning": "Time, step, turn (time / to time / temporal)"
-      },
-      {
-        "root": "komand-",
-        "noun": "komanda",
-        "verb": "komandi",
-        "modifier": "komande",
-        "meaning": "Command, directive (command / to command / imperative)"
-      },
-      {
-        "root": "kondis-",
-        "noun": "kondisa",
-        "verb": "kondisi",
-        "modifier": "kondise",
-        "meaning": "Condition, state (condition / to condition / conditional)"
-      },
-      {
-        "root": "logik-",
-        "noun": "logika",
-        "verb": "logiki",
-        "modifier": "logike",
-        "meaning": "Logic, reasoning (logic / to reason / logical)"
-      },
-      {
-        "root": "apadet-",
-        "noun": "apadeta",
-        "verb": "apadeti",
-        "modifier": "apadete",
-        "meaning": "Update, sync (update / to update / updated)"
-      },
-      {
-        "root": "kum-",
-        "noun": "kuma",
-        "verb": "kumi",
-        "modifier": "kume",
-        "meaning": "Cover, encompass, include (coverage / to cover / comprehensive)"
-      },
-      {
-        "root": "konsep-",
-        "noun": "konsepa",
-        "verb": "konsepi",
-        "modifier": "konsepe",
-        "meaning": "Concept, abstract idea (concept / to conceptualize / conceptual)"
-      },
-      {
-        "root": "terem-",
-        "noun": "terema",
-        "verb": "teremi",
-        "modifier": "tereme",
-        "meaning": "Word, technical term (term / to name / terminological)"
-      },
-      {
-        "root": "kup-",
-        "noun": "kupa",
-        "verb": "kupi",
-        "modifier": "kupe",
-        "meaning": "Want, desire, intend (desire / to want / desired)"
-      },
-      {
-        "root": "sar-",
-        "noun": "sara",
-        "verb": "sari",
-        "modifier": "sare",
-        "meaning": "Share, distribute, publish (share / to share / public)"
-      },
-      {
-        "root": "tes-",
-        "noun": "tesa",
-        "verb": "tesi",
-        "modifier": "tese",
-        "meaning": "Demonstrative determiner ('this')"
-      },
-      {
-        "root": "ker-",
-        "noun": "kera",
-        "verb": "keri",
-        "modifier": "kere",
-        "meaning": "Create, originate (creation / to create / created)"
-      },
-      {
-        "root": "porek-",
-        "noun": "poreka",
-        "verb": "poreki",
-        "modifier": "poreke",
-        "meaning": "Project, repository, initiative (project / to plan / planned)"
-      },
-      {
-        "root": "super-",
-        "noun": "supera",
-        "verb": "superi",
-        "modifier": "supere",
-        "meaning": "Best, optimal, superior (optimum / to optimize / optimal)"
-      },
-      {
-        "root": "komit-",
-        "noun": "komita",
-        "verb": "komiti",
-        "modifier": "komite",
-        "meaning": "Commit, record a version snapshot (commit / to commit / committed)"
-      },
-      {
-        "root": "ni-",
-        "noun": "nia",
-        "verb": "nii",
-        "modifier": "nie",
-        "meaning": "Nothing, anything in negative contexts, zero"
-      },
-      {
-        "root": "rat-",
-        "noun": "rata",
-        "verb": "rati",
-        "modifier": "rate",
-        "meaning": "Write, compose text (writing / to write / written)"
-      },
-      {
-        "root": "mesak-",
-        "noun": "mesaka",
-        "verb": "mesaki",
-        "modifier": "mesake",
-        "meaning": "Message, note, commit message"
-      },
-      {
-        "root": "pas-",
-        "noun": "pasa",
-        "verb": "pasi",
-        "modifier": "pase",
-        "meaning": "Give, provide, pass over (transfer / to give / given)"
-      },
-      {
-        "root": "pus-",
-        "noun": "pusa",
-        "verb": "pusi",
-        "modifier": "puse",
-        "meaning": "Push (e.g., git push), propel"
-      },
-      {
-        "root": "tesik-",
-        "noun": "tesika",
-        "verb": "tesiki",
-        "modifier": "tesike",
-        "meaning": "Describe, summarize, characterize"
-      },
-      {
-        "root": "pemis-",
-        "noun": "pemisa",
-        "verb": "pemisi",
-        "modifier": "pemise",
-        "meaning": "Permission, authorization"
-      },
-      {
-        "root": "repus-",
-        "noun": "repusa",
-        "verb": "repusi",
-        "modifier": "repuse",
-        "meaning": "Deny, refuse, reject"
-      },
-      {
-        "root": "ki-",
-        "noun": "kia",
-        "verb": "kii",
-        "modifier": "kie",
-        "meaning": "Cryptographic key, access key"
-      },
-      {
-        "root": "paler-",
-        "noun": "palera",
-        "verb": "paleri",
-        "modifier": "palere",
-        "meaning": "Failure, fatal error"
-      },
-      {
-        "root": "lek-",
-        "noun": "leka",
-        "verb": "leki",
-        "modifier": "leke",
-        "meaning": "Read, inspect"
-      },
-      {
-        "root": "remut-",
-        "noun": "remuta",
-        "verb": "remuti",
-        "modifier": "remute",
-        "meaning": "Remote repository or server"
-      },
-      {
-        "root": "sekur-",
-        "noun": "sekura",
-        "verb": "sekuri",
-        "modifier": "sekure",
-        "meaning": "Make sure, ensure, verify"
-      },
-      {
-        "root": "kap-",
-        "noun": "kapa",
-        "verb": "kapi",
-        "modifier": "kape",
-        "meaning": "Have, hold, possess"
-      },
-      {
-        "root": "kurek-",
-        "noun": "kureka",
-        "verb": "kureki",
-        "modifier": "kureke",
-        "meaning": "Correct, valid, right"
-      },
-      {
         "root": "akes-",
         "noun": "akesa",
         "verb": "akesi",
         "modifier": "akese",
         "meaning": "Access, entry rights"
-      },
-      {
-        "root": "ident-",
-        "noun": "identa",
-        "verb": "identi",
-        "modifier": "idente",
-        "meaning": "Identity, credential"
-      },
-      {
-        "root": "put-",
-        "noun": "puta",
-        "verb": "puti",
-        "modifier": "pute",
-        "meaning": "Put, add, insert"
-      },
-      {
-        "root": "minim-",
-        "noun": "minima",
-        "verb": "minimi",
-        "modifier": "minime",
-        "meaning": "Minimum, minimalism (minimum / to minimize / minimal)"
-      },
-      {
-        "root": "ingel-",
-        "noun": "ingela",
-        "verb": "ingeli",
-        "modifier": "ingele",
-        "meaning": "English language or style (English / to anglicize / English)"
-      },
-      {
-        "root": "amik-",
-        "noun": "amika",
-        "verb": "amiki",
-        "modifier": "amike",
-        "meaning": "Friend, ease of use (friend / to befriend / friendly)"
-      },
-      {
-        "root": "disan-",
-        "noun": "disana",
-        "verb": "disani",
-        "modifier": "disane",
-        "meaning": "Design, structure (design / to design / designed)"
-      },
-      {
-        "root": "monosen-",
-        "noun": "monosena",
-        "verb": "monoseni",
-        "modifier": "monosene",
-        "meaning": "Unambiguous, single-meaning (clarity of sense / to disambiguate / unambiguous)"
-      },
-      {
-        "root": "komunik-",
-        "noun": "komunika",
-        "verb": "komuniki",
-        "modifier": "komunike",
-        "meaning": "Communication, exchange (communication / to communicate / communicative)"
-      },
-      {
-        "root": "kim-",
-        "noun": "kima",
-        "verb": "kimi",
-        "modifier": "kime",
-        "meaning": "Key, core, essential (key / to anchor / key)"
-      },
-      {
-        "root": "taret-",
-        "noun": "tareta",
-        "verb": "tareti",
-        "modifier": "tarete",
-        "meaning": "Feature, trait, property (feature / to characterize / characteristic)"
-      },
-      {
-        "root": "lete-",
-        "noun": "letesa",
-        "verb": "letesi",
-        "modifier": "letese",
-        "meaning": "Letter, alphabetic character (letter / to spell / alphabetic)"
-      },
-      {
-        "root": "ponem-",
-        "noun": "ponema",
-        "verb": "ponemi",
-        "modifier": "poneme",
-        "meaning": "Phoneme, speech sound (phoneme / to pronounce / phonemic)"
-      },
-      {
-        "root": "set-",
-        "noun": "seta",
-        "verb": "seti",
-        "modifier": "sete",
-        "meaning": "Set, collection (set / to arrange / set)"
-      },
-      {
-        "root": "sonal-",
-        "noun": "sonala",
-        "verb": "sonali",
-        "modifier": "sonale",
-        "meaning": "Vowel, resonant sound (vowel / to vocalize / vocalic)"
-      },
-      {
-        "root": "konson-",
-        "noun": "konsona",
-        "verb": "konsoni",
-        "modifier": "konsone",
-        "meaning": "Consonant (consonant / to articulate / consonantal)"
-      },
-      {
-        "root": "sikit-",
-        "noun": "sikita",
-        "verb": "sikiti",
-        "modifier": "sikite",
-        "meaning": "Strictness, rigor (strictness / to enforce / strict)"
-      },
-      {
-        "root": "un-",
-        "noun": "una",
-        "verb": "uni",
-        "modifier": "une",
-        "meaning": "One, unity, joining (one / to unite / single)"
-      },
-      {
-        "root": "silap-",
-        "noun": "silapa",
-        "verb": "silapi",
-        "modifier": "silape",
-        "meaning": "Syllable (syllable / to syllabify / syllabic)"
-      },
-      {
-        "root": "gup-",
-        "noun": "gupa",
-        "verb": "gupi",
-        "modifier": "gupe",
-        "meaning": "Group, cluster (group / to cluster / grouped)"
-      },
-      {
-        "root": "kad-",
-        "noun": "kada",
-        "verb": "kadi",
-        "modifier": "kade",
-        "meaning": "Each, every (unit / to enumerate / every)"
-      },
-      {
-        "root": "elek-",
-        "noun": "eleka",
-        "verb": "eleki",
-        "modifier": "eleke",
-        "meaning": "Option, choice (option / to choose / optional)"
-      },
-      {
-        "root": "sol-",
-        "noun": "sola",
-        "verb": "soli",
-        "modifier": "sole",
-        "meaning": "Single, sole, alone (solitude / to isolate / single)"
-      },
-      {
-        "root": "neses-",
-        "noun": "nesesa",
-        "verb": "nesesi",
-        "modifier": "nesese",
-        "meaning": "Necessity, requirement (necessity / to require / mandatory)"
-      },
-      {
-        "root": "nasal-",
-        "noun": "nasala",
-        "verb": "nasali",
-        "modifier": "nasale",
-        "meaning": "Nasal sound (nasal / to nasalize / nasal)"
-      },
-      {
-        "root": "kod-",
-        "noun": "koda",
-        "verb": "kodi",
-        "modifier": "kode",
-        "meaning": "Ending, coda, tail (coda / to end / final)"
-      },
-      {
-        "root": "detemin-",
-        "noun": "detemina",
-        "verb": "detemini",
-        "modifier": "detemine",
-        "meaning": "Determinism (determinism / to determine / deterministic)"
-      },
-      {
-        "root": "kalas-",
-        "noun": "kalasa",
-        "verb": "kalasi",
-        "modifier": "kalase",
-        "meaning": "Class, category (class / to classify / categorical)"
-      },
-      {
-        "root": "konten-",
-        "noun": "kontena",
-        "verb": "konteni",
-        "modifier": "kontene",
-        "meaning": "Content, substance (content / to contain / substantive)"
-      },
-      {
-        "root": "nom-",
-        "noun": "noma",
-        "verb": "nomi",
-        "modifier": "nome",
-        "meaning": "Noun, name (noun / to name / nominal)"
       },
       {
         "root": "akison-",
@@ -606,25 +46,270 @@
         "meaning": "Verb, action (verb / to act / verbal)"
       },
       {
-        "root": "modipik-",
-        "noun": "modipika",
-        "verb": "modipiki",
-        "modifier": "modipike",
-        "meaning": "Modifier, adjective/adverb (modifier / to modify / modifying)"
+        "root": "amik-",
+        "noun": "amika",
+        "verb": "amiki",
+        "modifier": "amike",
+        "meaning": "Friend, ease of use (friend / to befriend / friendly)"
       },
       {
-        "root": "sintak-",
-        "noun": "sintaka",
-        "verb": "sintaki",
-        "modifier": "sintake",
-        "meaning": "Syntax (syntax / to structure syntactically / syntactic)"
+        "root": "apadet-",
+        "noun": "apadeta",
+        "verb": "apadeti",
+        "modifier": "apadete",
+        "meaning": "Update, sync (update / to update / updated)"
       },
       {
-        "root": "tem-",
-        "noun": "tema",
-        "verb": "temi",
-        "modifier": "teme",
-        "meaning": "Word, lexical unit (word / to word / lexical)"
+        "root": "detemin-",
+        "noun": "detemina",
+        "verb": "detemini",
+        "modifier": "detemine",
+        "meaning": "Determinism (determinism / to determine / deterministic)"
+      },
+      {
+        "root": "disan-",
+        "noun": "disana",
+        "verb": "disani",
+        "modifier": "disane",
+        "meaning": "Design, structure (design / to design / designed)"
+      },
+      {
+        "root": "dok-",
+        "noun": "doka",
+        "verb": "doki",
+        "modifier": "doke",
+        "meaning": "Document, file (document / to document / documented)"
+      },
+      {
+        "root": "elek-",
+        "noun": "eleka",
+        "verb": "eleki",
+        "modifier": "eleke",
+        "meaning": "Option, choice (option / to choose / optional)"
+      },
+      {
+        "root": "es-",
+        "noun": "esa",
+        "verb": "esi",
+        "modifier": "ese",
+        "meaning": "Copula / state of being (existence / to be / existent)"
+      },
+      {
+        "root": "garam-",
+        "noun": "garama",
+        "verb": "garami",
+        "modifier": "garame",
+        "meaning": "Grammar, syntax (grammar / to parse / grammatical)"
+      },
+      {
+        "root": "gide-",
+        "noun": "gida",
+        "verb": "gidi",
+        "modifier": "gide",
+        "meaning": "Guide, reference (guide / to guide / guided)"
+      },
+      {
+        "root": "gup-",
+        "noun": "gupa",
+        "verb": "gupi",
+        "modifier": "gupe",
+        "meaning": "Group, cluster (group / to cluster / grouped)"
+      },
+      {
+        "root": "ident-",
+        "noun": "identa",
+        "verb": "identi",
+        "modifier": "idente",
+        "meaning": "Identity, credential"
+      },
+      {
+        "root": "ingel-",
+        "noun": "ingela",
+        "verb": "ingeli",
+        "modifier": "ingele",
+        "meaning": "English language or style (English / to anglicize / English)"
+      },
+      {
+        "root": "it-",
+        "noun": "ita",
+        "verb": null,
+        "modifier": "ite",
+        "meaning": "Third-person / system pronoun (it / the system; ite = its)"
+      },
+      {
+        "root": "kad-",
+        "noun": "kada",
+        "verb": "kadi",
+        "modifier": "kade",
+        "meaning": "Each, every (unit / to enumerate / every)"
+      },
+      {
+        "root": "kalar-",
+        "noun": "kalara",
+        "verb": "kalari",
+        "modifier": "kalare",
+        "meaning": "Clear, transparent (clarity / to clarify / clear)"
+      },
+      {
+        "root": "kalas-",
+        "noun": "kalasa",
+        "verb": "kalasi",
+        "modifier": "kalase",
+        "meaning": "Class, category (class / to classify / categorical)"
+      },
+      {
+        "root": "kap-",
+        "noun": "kapa",
+        "verb": "kapi",
+        "modifier": "kape",
+        "meaning": "Have, hold, possess"
+      },
+      {
+        "root": "kaus-",
+        "noun": "kausa",
+        "verb": "kausi",
+        "modifier": "kause",
+        "meaning": "Cause, reason (cause / to cause / causal)"
+      },
+      {
+        "root": "ker-",
+        "noun": "kera",
+        "verb": "keri",
+        "modifier": "kere",
+        "meaning": "Create, originate (creation / to create / created)"
+      },
+      {
+        "root": "ki-",
+        "noun": "kia",
+        "verb": "kii",
+        "modifier": "kie",
+        "meaning": "Cryptographic key, access key"
+      },
+      {
+        "root": "kim-",
+        "noun": "kima",
+        "verb": "kimi",
+        "modifier": "kime",
+        "meaning": "Key, core, essential (key / to anchor / key)"
+      },
+      {
+        "root": "kip-",
+        "noun": "kipa",
+        "verb": "kipi",
+        "modifier": "kipe",
+        "meaning": "Keep, maintain, retain (retention / to keep / maintained)"
+      },
+      {
+        "root": "kod-",
+        "noun": "koda",
+        "verb": "kodi",
+        "modifier": "kode",
+        "meaning": "Ending, coda, tail (coda / to end / final)"
+      },
+      {
+        "root": "komand-",
+        "noun": "komanda",
+        "verb": "komandi",
+        "modifier": "komande",
+        "meaning": "Command, directive (command / to command / imperative)"
+      },
+      {
+        "root": "komit-",
+        "noun": "komita",
+        "verb": "komiti",
+        "modifier": "komite",
+        "meaning": "Commit, record a version snapshot (commit / to commit / committed)"
+      },
+      {
+        "root": "komunik-",
+        "noun": "komunika",
+        "verb": "komuniki",
+        "modifier": "komunike",
+        "meaning": "Communication, exchange (communication / to communicate / communicative)"
+      },
+      {
+        "root": "kondis-",
+        "noun": "kondisa",
+        "verb": "kondisi",
+        "modifier": "kondise",
+        "meaning": "Condition, state (condition / to condition / conditional)"
+      },
+      {
+        "root": "konsep-",
+        "noun": "konsepa",
+        "verb": "konsepi",
+        "modifier": "konsepe",
+        "meaning": "Concept, abstract idea (concept / to conceptualize / conceptual)"
+      },
+      {
+        "root": "konson-",
+        "noun": "konsona",
+        "verb": "konsoni",
+        "modifier": "konsone",
+        "meaning": "Consonant (consonant / to articulate / consonantal)"
+      },
+      {
+        "root": "konten-",
+        "noun": "kontena",
+        "verb": "konteni",
+        "modifier": "kontene",
+        "meaning": "Content, substance (content / to contain / substantive)"
+      },
+      {
+        "root": "kontin-",
+        "noun": "kontina",
+        "verb": "kontini",
+        "modifier": "kontine",
+        "meaning": "Continue, proceed (continuation / to continue / ongoing)"
+      },
+      {
+        "root": "kum-",
+        "noun": "kuma",
+        "verb": "kumi",
+        "modifier": "kume",
+        "meaning": "Cover, encompass, include (coverage / to cover / comprehensive)"
+      },
+      {
+        "root": "kup-",
+        "noun": "kupa",
+        "verb": "kupi",
+        "modifier": "kupe",
+        "meaning": "Want, desire, intend (desire / to want / desired)"
+      },
+      {
+        "root": "kurek-",
+        "noun": "kureka",
+        "verb": "kureki",
+        "modifier": "kureke",
+        "meaning": "Correct, valid, right"
+      },
+      {
+        "root": "lek-",
+        "noun": "leka",
+        "verb": "leki",
+        "modifier": "leke",
+        "meaning": "Read, inspect"
+      },
+      {
+        "root": "len-",
+        "noun": "lena",
+        "verb": "leni",
+        "modifier": "lene",
+        "meaning": "Train, optimize, acquire (learning / to learn / learned)"
+      },
+      {
+        "root": "lesik-",
+        "noun": "lesika",
+        "verb": "lesiki",
+        "modifier": "lesike",
+        "meaning": "Lexicon, vocabulary (lexicon / to lexicalize / lexical)"
+      },
+      {
+        "root": "lete-",
+        "noun": "letesa",
+        "verb": "letesi",
+        "modifier": "letese",
+        "meaning": "Letter, alphabetic character (letter / to spell / alphabetic)"
       },
       {
         "root": "lisens-",
@@ -634,70 +319,329 @@
         "meaning": "License, legal grant (license / to license / licensed)"
       },
       {
+        "root": "logik-",
+        "noun": "logika",
+        "verb": "logiki",
+        "modifier": "logike",
+        "meaning": "Logic, reasoning (logic / to reason / logical)"
+      },
+      {
+        "root": "lok-",
+        "noun": "loka",
+        "verb": "loki",
+        "modifier": "loke",
+        "meaning": "Say, utter, state (speech / to say / spoken)"
+      },
+      {
+        "root": "maner-",
+        "noun": "manera",
+        "verb": "maneri",
+        "modifier": "manere",
+        "meaning": "Manner, method, how (manner / to handle / procedural)"
+      },
+      {
+        "root": "map-",
+        "noun": "mapa",
+        "verb": "mapi",
+        "modifier": "mape",
+        "meaning": "Embed, project, transform (map / to map / embedded)"
+      },
+      {
+        "root": "mek-",
+        "noun": "meka",
+        "verb": "meki",
+        "modifier": "meke",
+        "meaning": "Compute, generate, execute (mechanism / to make / computational)"
+      },
+      {
+        "root": "mesak-",
+        "noun": "mesaka",
+        "verb": "mesaki",
+        "modifier": "mesake",
+        "meaning": "Message, note, commit message"
+      },
+      {
+        "root": "mi-",
+        "noun": "mia",
+        "verb": null,
+        "modifier": "mie",
+        "meaning": "First-person pronoun (I / we; mie = my/our)"
+      },
+      {
+        "root": "minim-",
+        "noun": "minima",
+        "verb": "minimi",
+        "modifier": "minime",
+        "meaning": "Minimum, minimalism (minimum / to minimize / minimal)"
+      },
+      {
+        "root": "modipik-",
+        "noun": "modipika",
+        "verb": "modipiki",
+        "modifier": "modipike",
+        "meaning": "Modifier, adjective/adverb (modifier / to modify / modifying)"
+      },
+      {
+        "root": "monosen-",
+        "noun": "monosena",
+        "verb": "monoseni",
+        "modifier": "monosene",
+        "meaning": "Unambiguous, single-meaning (clarity of sense / to disambiguate / unambiguous)"
+      },
+      {
+        "root": "nasal-",
+        "noun": "nasala",
+        "verb": "nasali",
+        "modifier": "nasale",
+        "meaning": "Nasal sound (nasal / to nasalize / nasal)"
+      },
+      {
+        "root": "neses-",
+        "noun": "nesesa",
+        "verb": "nesesi",
+        "modifier": "nesese",
+        "meaning": "Necessity, requirement (necessity / to require / mandatory)"
+      },
+      {
+        "root": "ni-",
+        "noun": "nia",
+        "verb": "nii",
+        "modifier": "nie",
+        "meaning": "Nothing, anything in negative contexts, zero"
+      },
+      {
+        "root": "nom-",
+        "noun": "noma",
+        "verb": "nomi",
+        "modifier": "nome",
+        "meaning": "Noun, name (noun / to name / nominal)"
+      },
+      {
+        "root": "paler-",
+        "noun": "palera",
+        "verb": "paleri",
+        "modifier": "palere",
+        "meaning": "Failure, fatal error"
+      },
+      {
+        "root": "pan-",
+        "noun": "pana",
+        "verb": "pani",
+        "modifier": "pane",
+        "meaning": "Expand, grow (expansion / to expand / expanded)"
+      },
+      {
+        "root": "pas-",
+        "noun": "pasa",
+        "verb": "pasi",
+        "modifier": "pase",
+        "meaning": "Give, provide, pass over (transfer / to give / given)"
+      },
+      {
+        "root": "pemis-",
+        "noun": "pemisa",
+        "verb": "pemisi",
+        "modifier": "pemise",
+        "meaning": "Permission, authorization"
+      },
+      {
+        "root": "pim-",
+        "noun": "pima",
+        "verb": "pimi",
+        "modifier": "pime",
+        "meaning": "First, initial (start / to begin / first)"
+      },
+      {
+        "root": "ponem-",
+        "noun": "ponema",
+        "verb": "ponemi",
+        "modifier": "poneme",
+        "meaning": "Phoneme, speech sound (phoneme / to pronounce / phonemic)"
+      },
+      {
+        "root": "porek-",
+        "noun": "poreka",
+        "verb": "poreki",
+        "modifier": "poreke",
+        "meaning": "Project, repository, initiative (project / to plan / planned)"
+      },
+      {
+        "root": "pus-",
+        "noun": "pusa",
+        "verb": "pusi",
+        "modifier": "puse",
+        "meaning": "Push (e.g., git push), propel"
+      },
+      {
+        "root": "put-",
+        "noun": "puta",
+        "verb": "puti",
+        "modifier": "pute",
+        "meaning": "Put, add, insert"
+      },
+      {
+        "root": "rat-",
+        "noun": "rata",
+        "verb": "rati",
+        "modifier": "rate",
+        "meaning": "Write, compose text (writing / to write / written)"
+      },
+      {
+        "root": "remut-",
+        "noun": "remuta",
+        "verb": "remuti",
+        "modifier": "remute",
+        "meaning": "Remote repository or server"
+      },
+      {
+        "root": "repus-",
+        "noun": "repusa",
+        "verb": "repusi",
+        "modifier": "repuse",
+        "meaning": "Deny, refuse, reject"
+      },
+      {
+        "root": "run-",
+        "noun": "runa",
+        "verb": "runi",
+        "modifier": "rune",
+        "meaning": "Run, flow, ongoing (run / to run / active)"
+      },
+      {
         "root": "sam-",
         "noun": "sama",
         "verb": "sami",
         "modifier": "same",
         "meaning": "Same, identical, alike (sameness / to match / same)"
+      },
+      {
+        "root": "sar-",
+        "noun": "sara",
+        "verb": "sari",
+        "modifier": "sare",
+        "meaning": "Share, distribute, publish (share / to share / public)"
+      },
+      {
+        "root": "sekur-",
+        "noun": "sekura",
+        "verb": "sekuri",
+        "modifier": "sekure",
+        "meaning": "Make sure, ensure, verify"
+      },
+      {
+        "root": "set-",
+        "noun": "seta",
+        "verb": "seti",
+        "modifier": "sete",
+        "meaning": "Set, collection (set / to arrange / set)"
+      },
+      {
+        "root": "sikit-",
+        "noun": "sikita",
+        "verb": "sikiti",
+        "modifier": "sikite",
+        "meaning": "Strictness, rigor (strictness / to enforce / strict)"
+      },
+      {
+        "root": "silap-",
+        "noun": "silapa",
+        "verb": "silapi",
+        "modifier": "silape",
+        "meaning": "Syllable (syllable / to syllabify / syllabic)"
+      },
+      {
+        "root": "sintak-",
+        "noun": "sintaka",
+        "verb": "sintaki",
+        "modifier": "sintake",
+        "meaning": "Syntax (syntax / to structure syntactically / syntactic)"
+      },
+      {
+        "root": "sol-",
+        "noun": "sola",
+        "verb": "soli",
+        "modifier": "sole",
+        "meaning": "Single, sole, alone (solitude / to isolate / single)"
+      },
+      {
+        "root": "sonal-",
+        "noun": "sonala",
+        "verb": "sonali",
+        "modifier": "sonale",
+        "meaning": "Vowel, resonant sound (vowel / to vocalize / vocalic)"
+      },
+      {
+        "root": "super-",
+        "noun": "supera",
+        "verb": "superi",
+        "modifier": "supere",
+        "meaning": "Best, optimal, superior (optimum / to optimize / optimal)"
+      },
+      {
+        "root": "tans-",
+        "noun": "tansa",
+        "verb": "tansi",
+        "modifier": "tanse",
+        "meaning": "Translate (translation / to translate / translated)"
+      },
+      {
+        "root": "taret-",
+        "noun": "tareta",
+        "verb": "tareti",
+        "modifier": "tarete",
+        "meaning": "Feature, trait, property (feature / to characterize / characteristic)"
+      },
+      {
+        "root": "tem-",
+        "noun": "tema",
+        "verb": "temi",
+        "modifier": "teme",
+        "meaning": "Word, lexical unit (word / to word / lexical)"
+      },
+      {
+        "root": "temp-",
+        "noun": "tempa",
+        "verb": "tempi",
+        "modifier": "tempe",
+        "meaning": "Time, step, turn (time / to time / temporal)"
+      },
+      {
+        "root": "terem-",
+        "noun": "terema",
+        "verb": "teremi",
+        "modifier": "tereme",
+        "meaning": "Word, technical term (term / to name / terminological)"
+      },
+      {
+        "root": "tes-",
+        "noun": "tesa",
+        "verb": "tesi",
+        "modifier": "tese",
+        "meaning": "Demonstrative determiner ('this')"
+      },
+      {
+        "root": "tesik-",
+        "noun": "tesika",
+        "verb": "tesiki",
+        "modifier": "tesike",
+        "meaning": "Describe, summarize, characterize"
+      },
+      {
+        "root": "tu-",
+        "noun": "tua",
+        "verb": null,
+        "modifier": "tue",
+        "meaning": "Second-person pronoun (you; tue = your)"
+      },
+      {
+        "root": "un-",
+        "noun": "una",
+        "verb": "uni",
+        "modifier": "une",
+        "meaning": "One, unity, joining (one / to unite / single)"
       }
     ],
     "ai_architecture": [
-      {
-        "root": "porom-",
-        "noun": "poroma",
-        "verb": "poromi",
-        "modifier": "porome",
-        "meaning": "Prompt; also the root of Promta (adapted from *poroma*)"
-      },
-      {
-        "root": "tok-",
-        "noun": "toka",
-        "verb": "toki",
-        "modifier": "toke",
-        "meaning": "Token / subword unit"
-      },
-      {
-        "root": "mod-",
-        "noun": "moda",
-        "verb": "modi",
-        "modifier": "mode",
-        "meaning": "AI model"
-      },
-      {
-        "root": "ten-",
-        "noun": "tena",
-        "verb": "teni",
-        "modifier": "tene",
-        "meaning": "Attention mechanism"
-      },
-      {
-        "root": "lat-",
-        "noun": "lata",
-        "verb": "lati",
-        "modifier": "late",
-        "meaning": "Latent space / representation"
-      },
-      {
-        "root": "net-",
-        "noun": "neta",
-        "verb": "neti",
-        "modifier": "nete",
-        "meaning": "Neural network"
-      },
-      {
-        "root": "pon-",
-        "noun": "pona",
-        "verb": "poni",
-        "modifier": "pone",
-        "meaning": "Model weights and parameter values"
-      },
-      {
-        "root": "ler-",
-        "noun": "lera",
-        "verb": "leri",
-        "modifier": "lere",
-        "meaning": "Neural network layer (e.g., transformer layer)"
-      },
       {
         "root": "emp-",
         "noun": "empa",
@@ -706,39 +650,11 @@
         "meaning": "Dense vector embedding"
       },
       {
-        "root": "pin-",
-        "noun": "pina",
-        "verb": "pini",
-        "modifier": "pine",
-        "meaning": "Precision, refinement; combines with tuna for fine-tuning"
-      },
-      {
-        "root": "ren-",
-        "noun": "rena",
-        "verb": "reni",
-        "modifier": "rene",
-        "meaning": "Reward signal / reinforcement"
-      },
-      {
-        "root": "uman-",
-        "noun": "umana",
-        "verb": "umani",
-        "modifier": "umane",
-        "meaning": "Human evaluator or user"
-      },
-      {
-        "root": "pit-",
-        "noun": "pita",
-        "verb": "piti",
-        "modifier": "pite",
-        "meaning": "Evaluation signal or human preference feedback"
-      },
-      {
-        "root": "los-",
-        "noun": "losa",
-        "verb": "losi",
-        "modifier": "lose",
-        "meaning": "Training loss / error signal"
+        "root": "gener-",
+        "noun": "genera",
+        "verb": "generi",
+        "modifier": "genere",
+        "meaning": "Generation, generative modeling (generation / to generate / generative)"
       },
       {
         "root": "inper-",
@@ -755,6 +671,76 @@
         "meaning": "Training dataset or corpus"
       },
       {
+        "root": "lat-",
+        "noun": "lata",
+        "verb": "lati",
+        "modifier": "late",
+        "meaning": "Latent space / representation"
+      },
+      {
+        "root": "ler-",
+        "noun": "lera",
+        "verb": "leri",
+        "modifier": "lere",
+        "meaning": "Neural network layer (e.g., transformer layer)"
+      },
+      {
+        "root": "los-",
+        "noun": "losa",
+        "verb": "losi",
+        "modifier": "lose",
+        "meaning": "Training loss / error signal"
+      },
+      {
+        "root": "mod-",
+        "noun": "moda",
+        "verb": "modi",
+        "modifier": "mode",
+        "meaning": "AI model"
+      },
+      {
+        "root": "net-",
+        "noun": "neta",
+        "verb": "neti",
+        "modifier": "nete",
+        "meaning": "Neural network"
+      },
+      {
+        "root": "pin-",
+        "noun": "pina",
+        "verb": "pini",
+        "modifier": "pine",
+        "meaning": "Precision, refinement; combines with tuna for fine-tuning"
+      },
+      {
+        "root": "pit-",
+        "noun": "pita",
+        "verb": "piti",
+        "modifier": "pite",
+        "meaning": "Evaluation signal or human preference feedback"
+      },
+      {
+        "root": "pon-",
+        "noun": "pona",
+        "verb": "poni",
+        "modifier": "pone",
+        "meaning": "Model weights and parameter values"
+      },
+      {
+        "root": "porom-",
+        "noun": "poroma",
+        "verb": "poromi",
+        "modifier": "porome",
+        "meaning": "Prompt; also the root of Promta (adapted from *poroma*)"
+      },
+      {
+        "root": "ren-",
+        "noun": "rena",
+        "verb": "reni",
+        "modifier": "rene",
+        "meaning": "Reward signal / reinforcement"
+      },
+      {
         "root": "tek-",
         "noun": "teka",
         "verb": "teki",
@@ -762,97 +748,34 @@
         "meaning": "Model architecture and internal structure"
       },
       {
-        "root": "gener-",
-        "noun": "genera",
-        "verb": "generi",
-        "modifier": "genere",
-        "meaning": "Generation, generative modeling (generation / to generate / generative)"
+        "root": "ten-",
+        "noun": "tena",
+        "verb": "teni",
+        "modifier": "tene",
+        "meaning": "Attention mechanism"
+      },
+      {
+        "root": "tok-",
+        "noun": "toka",
+        "verb": "toki",
+        "modifier": "toke",
+        "meaning": "Token / subword unit"
+      },
+      {
+        "root": "uman-",
+        "noun": "umana",
+        "verb": "umani",
+        "modifier": "umane",
+        "meaning": "Human evaluator or user"
       }
     ],
     "human_ai_workflows": [
-      {
-        "root": "kuer-",
-        "noun": "kuera",
-        "verb": "kueri",
-        "modifier": "kuere",
-        "meaning": "User question or request"
-      },
-      {
-        "root": "kontek-",
-        "noun": "konteka",
-        "verb": "konteki",
-        "modifier": "konteke",
-        "meaning": "Context or context window"
-      },
-      {
-        "root": "sisitem-",
-        "noun": "sisitema",
-        "verb": "sisitemi",
-        "modifier": "sisiteme",
-        "meaning": "System prompt, guardrails, rules"
-      },
-      {
-        "root": "ekesem-",
-        "noun": "ekesema",
-        "verb": "ekesemi",
-        "modifier": "ekeseme",
-        "meaning": "Few-shot example"
-      },
-      {
-        "root": "rol-",
-        "noun": "rola",
-        "verb": "roli",
-        "modifier": "role",
-        "meaning": "Assigned persona or role"
-      },
-      {
-        "root": "rep-",
-        "noun": "repa",
-        "verb": "repi",
-        "modifier": "repe",
-        "meaning": "AI-generated output or reply"
-      },
-      {
-        "root": "iter-",
-        "noun": "itera",
-        "verb": "iteri",
-        "modifier": "itere",
-        "meaning": "Follow-up turn or refinement loop"
-      },
-      {
-        "root": "edit-",
-        "noun": "edita",
-        "verb": "editi",
-        "modifier": "edite",
-        "meaning": "Steer or modify an output"
-      },
-      {
-        "root": "tun-",
-        "noun": "tuna",
-        "verb": "tuni",
-        "modifier": "tune",
-        "meaning": "Adjust temperature, weights, or tone"
-      },
-      {
-        "root": "imit-",
-        "noun": "imita",
-        "verb": "imiti",
-        "modifier": "imite",
-        "meaning": "Synthetic data or emulation"
-      },
       {
         "root": "al-",
         "noun": "ala",
         "verb": "ali",
         "modifier": "ale",
         "meaning": "Safety, helpfulness, intent match"
-      },
-      {
-        "root": "pias-",
-        "noun": "piasa",
-        "verb": "piasi",
-        "modifier": "piase",
-        "meaning": "Model bias or distribution skew"
       },
       {
         "root": "alu-",
@@ -862,39 +785,46 @@
         "meaning": "Fabricated or ungrounded output (hallucination)"
       },
       {
-        "root": "tul-",
-        "noun": "tula",
-        "verb": "tuli",
-        "modifier": "tule",
-        "meaning": "Function calling, external tool, plugin"
+        "root": "ap-",
+        "noun": "apa",
+        "verb": "api",
+        "modifier": "ape",
+        "meaning": "Software application or program"
       },
       {
-        "root": "mem-",
-        "noun": "mema",
-        "verb": "memi",
-        "modifier": "meme",
-        "meaning": "Cross-session memory or RAG"
+        "root": "edit-",
+        "noun": "edita",
+        "verb": "editi",
+        "modifier": "edite",
+        "meaning": "Steer or modify an output"
       },
       {
-        "root": "potokol-",
-        "noun": "potokola",
-        "verb": "potokoli",
-        "modifier": "potokole",
-        "meaning": "Protocol, interface standard"
+        "root": "ekesem-",
+        "noun": "ekesema",
+        "verb": "ekesemi",
+        "modifier": "ekeseme",
+        "meaning": "Few-shot example"
       },
       {
-        "root": "lim-",
-        "noun": "lima",
-        "verb": "limi",
-        "modifier": "lime",
-        "meaning": "Constraint, safety boundary, limit"
+        "root": "imit-",
+        "noun": "imita",
+        "verb": "imiti",
+        "modifier": "imite",
+        "meaning": "Synthetic data or emulation"
       },
       {
-        "root": "rel-",
-        "noun": "rela",
-        "verb": "reli",
-        "modifier": "rele",
-        "meaning": "Boundary line, policy rule, rail"
+        "root": "inter-",
+        "noun": "intera",
+        "verb": "interi",
+        "modifier": "intere",
+        "meaning": "Interface, endpoint, connection layer"
+      },
+      {
+        "root": "iter-",
+        "noun": "itera",
+        "verb": "iteri",
+        "modifier": "itere",
+        "meaning": "Follow-up turn or refinement loop"
       },
       {
         "root": "kat-",
@@ -904,115 +834,193 @@
         "meaning": "Guard, protection, defense"
       },
       {
-        "root": "ap-",
-        "noun": "apa",
-        "verb": "api",
-        "modifier": "ape",
-        "meaning": "Software application or program"
+        "root": "kontek-",
+        "noun": "konteka",
+        "verb": "konteki",
+        "modifier": "konteke",
+        "meaning": "Context or context window"
       },
       {
-        "root": "inter-",
-        "noun": "intera",
-        "verb": "interi",
-        "modifier": "intere",
-        "meaning": "Interface, endpoint, connection layer"
+        "root": "kuer-",
+        "noun": "kuera",
+        "verb": "kueri",
+        "modifier": "kuere",
+        "meaning": "User question or request"
+      },
+      {
+        "root": "lim-",
+        "noun": "lima",
+        "verb": "limi",
+        "modifier": "lime",
+        "meaning": "Constraint, safety boundary, limit"
+      },
+      {
+        "root": "mem-",
+        "noun": "mema",
+        "verb": "memi",
+        "modifier": "meme",
+        "meaning": "Cross-session memory or RAG"
+      },
+      {
+        "root": "pias-",
+        "noun": "piasa",
+        "verb": "piasi",
+        "modifier": "piase",
+        "meaning": "Model bias or distribution skew"
+      },
+      {
+        "root": "potokol-",
+        "noun": "potokola",
+        "verb": "potokoli",
+        "modifier": "potokole",
+        "meaning": "Protocol, interface standard"
+      },
+      {
+        "root": "rel-",
+        "noun": "rela",
+        "verb": "reli",
+        "modifier": "rele",
+        "meaning": "Boundary line, policy rule, rail"
+      },
+      {
+        "root": "rep-",
+        "noun": "repa",
+        "verb": "repi",
+        "modifier": "repe",
+        "meaning": "AI-generated output or reply"
+      },
+      {
+        "root": "rol-",
+        "noun": "rola",
+        "verb": "roli",
+        "modifier": "role",
+        "meaning": "Assigned persona or role"
+      },
+      {
+        "root": "sisitem-",
+        "noun": "sisitema",
+        "verb": "sisitemi",
+        "modifier": "sisiteme",
+        "meaning": "System prompt, guardrails, rules"
+      },
+      {
+        "root": "tul-",
+        "noun": "tula",
+        "verb": "tuli",
+        "modifier": "tule",
+        "meaning": "Function calling, external tool, plugin"
+      },
+      {
+        "root": "tun-",
+        "noun": "tuna",
+        "verb": "tuni",
+        "modifier": "tune",
+        "meaning": "Adjust temperature, weights, or tone"
       }
     ]
   },
   "particles": [
     {
-      "word": "in",
-      "meaning": "in / into"
-    },
-    {
       "word": "an",
       "meaning": "and"
-    },
-    {
-      "word": "pata",
-      "meaning": "but"
-    },
-    {
-      "word": "so",
-      "meaning": "so / therefore"
-    },
-    {
-      "word": "sa",
-      "meaning": "as / while"
-    },
-    {
-      "word": "de",
-      "meaning": "of / about"
-    },
-    {
-      "word": "kua",
-      "meaning": "what / which"
-    },
-    {
-      "word": "semepere",
-      "meaning": "always"
-    },
-    {
-      "word": "kan",
-      "meaning": "can"
-    },
-    {
-      "word": "ne",
-      "meaning": "not"
-    },
-    {
-      "word": "ka",
-      "meaning": "yes/no question marker"
-    },
-    {
-      "word": "si",
-      "meaning": "if"
-    },
-    {
-      "word": "ten",
-      "meaning": "then"
-    },
-    {
-      "word": "pilisa",
-      "meaning": "please / polite imperative"
-    },
-    {
-      "word": "komo",
-      "meaning": "like / such as"
-    },
-    {
-      "word": "o",
-      "meaning": "oh / interjection"
-    },
-    {
-      "word": "ia",
-      "meaning": "yes"
     },
     {
       "word": "ankora",
       "meaning": "yet / still"
     },
     {
+      "word": "au",
+      "meaning": "or"
+    },
+    {
+      "word": "de",
+      "meaning": "of / about"
+    },
+    {
+      "word": "ia",
+      "meaning": "yes"
+    },
+    {
+      "word": "in",
+      "meaning": "in / into"
+    },
+    {
+      "word": "ka",
+      "meaning": "yes/no question marker"
+    },
+    {
+      "word": "kan",
+      "meaning": "can"
+    },
+    {
+      "word": "komo",
+      "meaning": "like / such as"
+    },
+    {
+      "word": "kua",
+      "meaning": "what / which"
+    },
+    {
+      "word": "ne",
+      "meaning": "not"
+    },
+    {
+      "word": "o",
+      "meaning": "oh / interjection"
+    },
+    {
+      "word": "pata",
+      "meaning": "but"
+    },
+    {
+      "word": "pilisa",
+      "meaning": "please / polite imperative"
+    },
+    {
       "word": "po",
       "meaning": "for / in order to"
+    },
+    {
+      "word": "sa",
+      "meaning": "as / while"
+    },
+    {
+      "word": "semepere",
+      "meaning": "always"
+    },
+    {
+      "word": "si",
+      "meaning": "if"
     },
     {
       "word": "sin",
       "meaning": "without"
     },
     {
-      "word": "au",
-      "meaning": "or"
+      "word": "so",
+      "meaning": "so / therefore"
+    },
+    {
+      "word": "ten",
+      "meaning": "then"
     }
   ],
   "compounds": [
     {
-      "word": "kontekalata",
+      "word": "alurepa",
       "components": [
-        "konteka",
-        "lata"
+        "alua",
+        "repa"
       ],
-      "meaning": "Context window ('context space')"
+      "meaning": "Hallucinated response"
+    },
+    {
+      "word": "apintera",
+      "components": [
+        "apa",
+        "intera"
+      ],
+      "meaning": "API / Application Programming Interface ('application-interface')"
     },
     {
       "word": "ekesemoporoma",
@@ -1023,44 +1031,60 @@
       "meaning": "Few-shot prompt ('example-prompt')"
     },
     {
-      "word": "alurepa",
-      "components": [
-        "alua",
-        "repa"
-      ],
-      "meaning": "Hallucinated response"
-    },
-    {
-      "word": "tulameka",
-      "components": [
-        "tula",
-        "meka"
-      ],
-      "meaning": "Agentic workflow ('tool-mechanism')"
-    },
-    {
-      "word": "memneta",
-      "components": [
-        "mema",
-        "neta"
-      ],
-      "meaning": "RAG system ('memory-network')"
-    },
-    {
-      "word": "lesikadoka",
-      "components": [
-        "lesika",
-        "doka"
-      ],
-      "meaning": "Lexicon document / dictionary file"
-    },
-    {
       "word": "garamagida",
       "components": [
         "garama",
         "gida"
       ],
       "meaning": "Grammar guide"
+    },
+    {
+      "word": "komitamesaka",
+      "components": [
+        "komita",
+        "mesaka"
+      ],
+      "meaning": "Commit message ('commit-message')"
+    },
+    {
+      "word": "kontekalata",
+      "components": [
+        "konteka",
+        "lata"
+      ],
+      "meaning": "Context window ('context space')"
+    },
+    {
+      "word": "kontekapotokola",
+      "components": [
+        "konteka",
+        "potokola"
+      ],
+      "meaning": "Short form for Model Context Protocol (MCP)"
+    },
+    {
+      "word": "kontentema",
+      "components": [
+        "kontena",
+        "tema"
+      ],
+      "meaning": "Content word ('content-word')"
+    },
+    {
+      "word": "kuakausa",
+      "components": [
+        "kua",
+        "kausa"
+      ],
+      "meaning": "Why ('what-cause')"
+    },
+    {
+      "word": "kualoka",
+      "components": [
+        "kua",
+        "loka"
+      ],
+      "meaning": "Where ('what-place')"
     },
     {
       "word": "kuamanera",
@@ -1079,61 +1103,52 @@
       "meaning": "When ('what-time')"
     },
     {
-      "word": "kualoka",
-      "components": [
-        "kua",
-        "loka"
-      ],
-      "meaning": "Where ('what-place')"
-    },
-    {
-      "word": "kuakausa",
-      "components": [
-        "kua",
-        "kausa"
-      ],
-      "meaning": "Why ('what-cause')"
-    },
-    {
-      "word": "pinatuna",
-      "components": [
-        "pina",
-        "tuna"
-      ],
-      "meaning": "Fine-tuning ('precision-adjustment')"
-    },
-    {
-      "word": "renlena",
-      "components": [
-        "rena",
-        "lena"
-      ],
-      "meaning": "Reinforcement learning ('reward-learning')"
-    },
-    {
-      "word": "umanrenlena",
-      "components": [
-        "umana",
-        "rena",
-        "lena"
-      ],
-      "meaning": "RLHF ('human-reward-learning')"
-    },
-    {
-      "word": "moteka",
-      "components": [
-        "moda",
-        "teka"
-      ],
-      "meaning": "Model internals / architecture ('model-structure')"
-    },
-    {
       "word": "lenkopa",
       "components": [
         "lena",
         "kopa"
       ],
       "meaning": "Training dataset ('learning-corpus')"
+    },
+    {
+      "word": "lesikadoka",
+      "components": [
+        "lesika",
+        "doka"
+      ],
+      "meaning": "Lexicon document / dictionary file"
+    },
+    {
+      "word": "leteseta",
+      "components": [
+        "letesa",
+        "seta"
+      ],
+      "meaning": "Alphabet ('letter-set')"
+    },
+    {
+      "word": "limrela",
+      "components": [
+        "lima",
+        "rela"
+      ],
+      "meaning": "Guardrail ('limit-rail'; plural: milimrela)"
+    },
+    {
+      "word": "mekalena",
+      "components": [
+        "meka",
+        "lena"
+      ],
+      "meaning": "Constructed language / conlang ('made-language')"
+    },
+    {
+      "word": "memneta",
+      "components": [
+        "mema",
+        "neta"
+      ],
+      "meaning": "RAG system ('memory-network')"
     },
     {
       "word": "modakontekapotokola",
@@ -1145,60 +1160,20 @@
       "meaning": "Model Context Protocol / MCP (short: kontekapotokola)"
     },
     {
-      "word": "kontekapotokola",
+      "word": "moteka",
       "components": [
-        "konteka",
-        "potokola"
+        "moda",
+        "teka"
       ],
-      "meaning": "Short form for Model Context Protocol (MCP)"
+      "meaning": "Model internals / architecture ('model-structure')"
     },
     {
-      "word": "limrela",
+      "word": "pinatuna",
       "components": [
-        "lima",
-        "rela"
+        "pina",
+        "tuna"
       ],
-      "meaning": "Guardrail ('limit-rail'; plural: milimrela)"
-    },
-    {
-      "word": "apintera",
-      "components": [
-        "apa",
-        "intera"
-      ],
-      "meaning": "API / Application Programming Interface ('application-interface')"
-    },
-    {
-      "word": "tulintera",
-      "components": [
-        "tula",
-        "intera"
-      ],
-      "meaning": "Tool-calling API ('tool-interface')"
-    },
-    {
-      "word": "mekalena",
-      "components": [
-        "meka",
-        "lena"
-      ],
-      "meaning": "Constructed language / conlang ('made-language')"
-    },
-    {
-      "word": "komitamesaka",
-      "components": [
-        "komita",
-        "mesaka"
-      ],
-      "meaning": "Commit message ('commit-message')"
-    },
-    {
-      "word": "leteseta",
-      "components": [
-        "letesa",
-        "seta"
-      ],
-      "meaning": "Alphabet ('letter-set')"
+      "meaning": "Fine-tuning ('precision-adjustment')"
     },
     {
       "word": "ponemleteseta",
@@ -1210,12 +1185,37 @@
       "meaning": "Phonemic alphabet ('phoneme-letter-set')"
     },
     {
-      "word": "kontentema",
+      "word": "renlena",
       "components": [
-        "kontena",
-        "tema"
+        "rena",
+        "lena"
       ],
-      "meaning": "Content word ('content-word')"
+      "meaning": "Reinforcement learning ('reward-learning')"
+    },
+    {
+      "word": "tulameka",
+      "components": [
+        "tula",
+        "meka"
+      ],
+      "meaning": "Agentic workflow ('tool-mechanism')"
+    },
+    {
+      "word": "tulintera",
+      "components": [
+        "tula",
+        "intera"
+      ],
+      "meaning": "Tool-calling API ('tool-interface')"
+    },
+    {
+      "word": "umanrenlena",
+      "components": [
+        "umana",
+        "rena",
+        "lena"
+      ],
+      "meaning": "RLHF ('human-reward-learning')"
     },
     {
       "word": "unitema",
