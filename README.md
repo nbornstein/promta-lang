@@ -14,6 +14,7 @@ An engineered, minimalist, English-friendly constructed language designed for un
 ```text
 promta-lang/
 ├── README.md
+├── AGENTS.md            # Guidance for AI coding agents
 ├── spec/
 │   ├── 01-phonology.md    # 15-letter alphabet & (C)V(N) syllable rules
 │   └── 02-grammar.md      # SVO syntax, POS vowel endings, particles, conditionals
@@ -34,9 +35,13 @@ python3 tools/validate_promta.py --lexicon lexicon/lexicon.json
 python3 tools/validate_promta.py examples/system-prompt.promta
 ```
 
+## Authorship & AI Assistance
+
+This project was largely drafted, structured, and iterated with **Gemini** (Google's AI), with human direction, review, phonological/validation testing, and curation.
+
 ## License
 
-- **Language Specification, Lexicon, Documentation & Examples** (`README.md`, `spec/`, `lexicon/`, `examples/`): Licensed under [CC BY-SA 4.0](LICENSE-CONTENT) ([creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
+- **Language Specification, Lexicon, Documentation & Examples** (`README.md`, `AGENTS.md`, `spec/`, `lexicon/`, `examples/`): Licensed under [CC BY-SA 4.0](LICENSE-CONTENT) ([creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
 - **Software & Validation Tools** (`tools/`): Licensed under the [MIT License](LICENSE).
 
 ---
@@ -57,6 +62,7 @@ Disane, minime, ingele-amike meke lena poreke po monosene komunika de genere AI,
 ```text
 promta-lang/
 ├── README.md
+├── AGENTS.md            # Meka-gide po AI kode-mitula
 ├── spec/
 │   ├── 01-phonology.md    # 15-letese leteseta an (C)V(N) silapa mirula
 │   └── 02-grammar.md      # SVO sintaka, garame kalasa mikoda, mipartikla, mikondisa
@@ -79,5 +85,5 @@ python3 tools/validate_promta.py examples/system-prompt.promta
 
 ### Lisensa
 
-- **Lena Teka, Lesika, Midoka an Mieksema** (`README.md`, `spec/`, `lexicon/`, `examples/`): Lisense in [CC BY-SA 4.0](LICENSE-CONTENT) (kapi atributa an sare-same mikondisa).
+- **Lena Teka, Lesika, Midoka an Mieksema** (`README.md`, `AGENTS.md`, `spec/`, `lexicon/`, `examples/`): Lisense in [CC BY-SA 4.0](LICENSE-CONTENT) (kapi atributa an sare-same mikondisa).
 - **Meka an Kurek-Mitula** (`tools/`): Lisense in [MIT Lisensa](LICENSE).
